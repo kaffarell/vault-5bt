@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c88441ac342fe3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb71cdbacc6e4ffb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathe.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb50db6bf543f721",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a9420e70b6b8fd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785b1f9d99806aa6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf295ab7e13e6824",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 105
+  },
+  "right": {
+    "id": "71f61132c814b0a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f16ceeb9637e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09cb339bcd3654c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mathe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eb71cdbacc6e4ffb",
+  "lastOpenFiles": [
+    "Mathe.md",
+    "Italienisch.md"
+  ]
+}
