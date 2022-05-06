@@ -30,7 +30,8 @@ $\int f(x)' \cdot g(x) = f(x) \cdot g(x) - \int f(x) \cdot g(x)'$
 Na
 
 ##### Länge einer Kurve
-$\int_{x_1}^{x_2}
+$\int_{x_1}^{x_2}$
+
 
 
 
