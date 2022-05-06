@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Mathe.md",
-            "mode": "preview"
+            "mode": "source",
+            "source": false
           }
         }
       }

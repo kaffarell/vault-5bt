@@ -23,6 +23,16 @@ $\int \frac{e^x}{1+e^x} dx$
 $u = 1+e^x$
 $u' = e^x -> dx = \frac{du}{e^x}$
 
+##### Partielles integrieren
+$\int f(x)' \cdot g(x) = f(x) \cdot g(x) - \int f(x) \cdot g(x)'$
+
+##### Partialbruchzerlegung
+Na
+
+##### Länge einer Kurve
+$\int_{x_1}^{x_2}
+
+
 
 
 
