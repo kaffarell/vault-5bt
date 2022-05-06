@@ -1,4 +1,6 @@
 [
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition",
+  "theme-picker"
 ]
