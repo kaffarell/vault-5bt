@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe.md",
+            "file": "Mathe/1.) Ableitungen.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 105
+    "width": 484
   },
   "right": {
     "id": "71f61132c814b0a5",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe.md",
+                "file": "Mathe/1.) Ableitungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,9 @@
   },
   "active": "eb71cdbacc6e4ffb",
   "lastOpenFiles": [
-    "Mathe.md",
+    "Mathe/1.) Ableitungen.md",
+    "Mathe/3.) Differenzialgleichungen.md",
+    "Mathe/2.) Integration.md",
     "Italienisch.md"
   ]
 }
