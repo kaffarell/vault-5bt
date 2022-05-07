@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe/1.) Ableitungen.md",
+            "file": "2.) Technik/5.) Mathe/2.) Differentialgleichung/1.) Differenzialgleichungen.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/1.) Ableitungen.md",
+                "file": "2.) Technik/5.) Mathe/2.) Differentialgleichung/1.) Differenzialgleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +98,15 @@
   },
   "active": "eb71cdbacc6e4ffb",
   "lastOpenFiles": [
-    "Mathe/1.) Ableitungen.md",
-    "Mathe/3.) Differenzialgleichungen.md",
-    "Mathe/2.) Integration.md",
-    "Italienisch.md"
+    "2.) Technik/5.) Mathe/2.) Differentialgleichung/1.) Differenzialgleichungen.md",
+    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/2.) Integration.md",
+    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/1.) Ableitungen.md",
+    "1.) Sprachen/Untitled.md",
+    "2.) Technik/3.) Systeme & Netze/1.) Konfiguration.md",
+    "2.) Technik/3.) SN.md",
+    "1.) Sprachen/2.) Italienisch/13-15.) Presentatione/15.) Cronache marziane.md",
+    "1.) Sprachen/2.) Italienisch/8-12.) Testimonio Inconsapevole/12.) Cap. 7 e 8 della seconda parte.md",
+    "1.) Sprachen/2.) Italienisch/8-12.) Testimonio Inconsapevole/11.) Cap. 3 della seconda parte.md",
+    "1.) Sprachen/2.) Italienisch/8-12.) Testimonio Inconsapevole/10.) Cap. 1 della seconda parte.md"
   ]
 }
