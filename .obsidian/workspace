@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "c88441ac342fe3dd",
+    "id": "6ab030fcbe42f7e8",
     "type": "split",
     "children": [
       {
-        "id": "eb71cdbacc6e4ffb",
+        "id": "c680c1b566e4f476",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/3.) Integration.md",
+            "file": "3.) Andere/2.) Gesellschaftliche Bildung/Fragen.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eb50db6bf543f721",
+    "id": "86215e23840dee84",
     "type": "split",
     "children": [
       {
-        "id": "8a9420e70b6b8fd7",
+        "id": "a647e11824d9e8f2",
         "type": "tabs",
         "children": [
           {
-            "id": "785b1f9d99806aa6",
+            "id": "a78900523c7b114c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "bf295ab7e13e6824",
+            "id": "79fadb3df512b889",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 189
+    "width": 300
   },
   "right": {
-    "id": "71f61132c814b0a5",
+    "id": "4d6ff061f866e29b",
     "type": "split",
     "children": [
       {
-        "id": "24f16ceeb9637e16",
+        "id": "e4c82ffa7bb452b5",
         "type": "tabs",
         "children": [
           {
-            "id": "09cb339bcd3654c6",
+            "id": "85373723c9a88bac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/3.) Integration.md",
+                "file": "3.) Andere/2.) Gesellschaftliche Bildung/Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,34 +79,25 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "7407a239daa9af81",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "eb71cdbacc6e4ffb",
+  "active": "c680c1b566e4f476",
   "lastOpenFiles": [
-    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/3.) Integration.md",
-    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/2.) Ableitungen.md",
-    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/1.) Kurvendiskussion.md",
-    "2.) Technik/5.) Mathe/2.) Differentialgleichung/2.) Lösungswege.md",
-    "1.) Sprachen/2.) Italienisch/1-7.) Testi/3.) Neutralisti e Interventisti.md",
-    "1.) Sprachen/2.) Italienisch/1-7.) Testi/2.) Crisi delle certezze.md",
-    "1.) Sprachen/2.) Italienisch/1-7.) Testi/1.) Belle Epoque.md",
-    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/4.) Optimierungsaufgaben.md",
-    "2.) Technik/5.) Mathe/3.) Daten und Zufall/3.) Varianz & Standardabweichung.md",
-    "2.) Technik/5.) Mathe/3.) Daten und Zufall/2.) Zufall & Wahrscheinlichkeit.md"
+    "3.) Andere/2.) Gesellschaftliche Bildung/Fragen.md",
+    "3.) Andere/1.) Geschichte/6.) Ukraine/1.).md",
+    "3.) Andere/1.) Geschichte/5.) Kalter Krieg (Ost-West-Konflikt)/1.).md",
+    "3.) Andere/1.) Geschichte/4.) WW II/1.).md",
+    "3.) Andere/1.) Geschichte/3.) Nationalsozialismus/1.).md",
+    "3.) Andere/1.) Geschichte/2.) Zwischenkriegszeit/1.).md",
+    "3.) Andere/1.) Geschichte/1.) WW I/1.).md",
+    "2.) Technik/5.) Mathe/3.) Daten und Zufall/1.).md",
+    "2.) Technik/4.) Projekt Management/1.).md",
+    "2.) Technik/3.) Systeme & Netze/4.) Virtualisierung/1.).md"
   ]
 }
