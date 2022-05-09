@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/3.) Integration.md",
+            "file": "3.) Andere/2.) Gesellschaftliche Bildung/Fragen.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/3.) Integration.md",
+                "file": "3.) Andere/2.) Gesellschaftliche Bildung/Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,15 @@
   },
   "active": "c680c1b566e4f476",
   "lastOpenFiles": [
-    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/3.) Integration.md",
-    "2.) Technik/5.) Mathe/2.) Differentialgleichung/2.) Lösungswege.md",
-    "2.) Technik/5.) Mathe/2.) Differentialgleichung/1.) Theorie.md",
-    "2.) Technik/5.) Mathe/3.) Daten und Zufall/1.) Verteilungsarten.md",
-    "3.) Andere/2.) Gesellschaftliche Bildung/Untitled.md",
-    "README.md",
-    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/2.) Ableitungen.md",
-    "2.) Technik/5.) Mathe/1.) Differential- und Integralrechnung/1.) Kurvendiskussion.md"
+    "3.) Andere/2.) Gesellschaftliche Bildung/Fragen.md",
+    "3.) Andere/1.) Geschichte/6.) Ukraine/1.).md",
+    "3.) Andere/1.) Geschichte/5.) Kalter Krieg (Ost-West-Konflikt)/1.).md",
+    "3.) Andere/1.) Geschichte/4.) WW II/1.).md",
+    "3.) Andere/1.) Geschichte/3.) Nationalsozialismus/1.).md",
+    "3.) Andere/1.) Geschichte/2.) Zwischenkriegszeit/1.).md",
+    "3.) Andere/1.) Geschichte/1.) WW I/1.).md",
+    "2.) Technik/5.) Mathe/3.) Daten und Zufall/1.).md",
+    "2.) Technik/4.) Projekt Management/1.).md",
+    "2.) Technik/3.) Systeme & Netze/4.) Virtualisierung/1.).md"
   ]
 }
