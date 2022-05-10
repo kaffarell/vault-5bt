@@ -28,19 +28,20 @@ Der Verbraucherpreisindex gibt die Preissteigerung innerhalb eines Monats an. Er
 Der Verbraucherpreisindex auf ein Jahr gerechnet, ist als **Teuerungsrate** bekannt.
 ```
 ##### -----------------------------------------------------------
-##### Welche Ziele/Aufgaben hat die EZB‌
-```ad-info
-title: ##### Welche Ziele/Aufgaben hat die EZB
-Die EZB (Europäische Zentralbank) regelt den Geldfluss innerhalb Europas.
-Sie sind u.a. dafür verantwortlich, Geld zu Drucken und alles im Zusammenhang mit Finanzen innerhalb der EU zu regeln.
-
-```
-##### -----------------------------------------------------------
 ##### Geldwertstabilität
 ```ad-info
 title:
 Das Geld hat langfristig einen vorhersehbaren Wert.
 Bsp.: Ein Euro hat heute ca. die gleiche **Kaufkraft** wie in 10 Jahren.
+![Geldwertstabilität](https://cdn.discordapp.com/attachments/613625981219110914/973528540425367583/unknown.png)
+```
+##### -----------------------------------------------------------
+##### Welche Ziele/Aufgaben hat die EZB‌
+```ad-info
+title: ##### Welche Ziele/Aufgaben hat die EZB
+Die EZB (Europäische Zentralbank) regelt den Geldfluss innerhalb Europas.
+Sie sind u.a. dafür verantwortlich, Geld zu Drucken und alles im Zusammenhang mit Finanzen innerhalb der EU zu regeln.
+Weiters versucht sie die Geldwertstabilität zu gewährleisten.
 ```
 ##### -----------------------------------------------------------
 ##### Kaufkraft‌
