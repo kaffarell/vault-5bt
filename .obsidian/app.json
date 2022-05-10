@@ -1,3 +1,4 @@
 {
-  "legacyEditor": false
+  "legacyEditor": false,
+  "promptDelete": false
 }
