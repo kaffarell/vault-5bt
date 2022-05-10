@@ -73,16 +73,23 @@ Alle 4 Konjunkturphasen zusammen ergeben einen **Konjunkturzyklus**, der im Mode
 ##### -----------------------------------------------------------
 ##### Wer tut sich schwer wenns teurer wird?
 
-Wann kommt es zu Streiks?
+##### -----------------------------------------------------------
+##### Wann kommt es zu Streiks?
 
-Was ist Geldmenge?
+##### -----------------------------------------------------------
+##### Was ist Geldmenge?
 
-Marktgleichgewicht --> Nachfrage/Angebot stimmen überein
+##### -----------------------------------------------------------
+##### Marktgleichgewicht --> Nachfrage/Angebot stimmen überein
 
-Gleichgewichts ???? Was passiert wenn Nachfrage Kurve und Angebotskurve aufeinander treffen?
+##### -----------------------------------------------------------
+##### Gleichgewichts ???? Was passiert wenn Nachfrage Kurve und Angebotskurve aufeinander treffen?
 
-Haushaltsüberschüsse/defizite -  Was fördert/dämpft Konjunktur?
+##### -----------------------------------------------------------
+##### Haushaltsüberschüsse/defizite -  Was fördert/dämpft Konjunktur?
 
-Antizyklisches Handeln
+##### -----------------------------------------------------------
+##### Antizyklisches Handeln
 
-Polypol / Oligopol / Monopol
+##### -----------------------------------------------------------
+##### Polypol / Oligopol / Monopol
