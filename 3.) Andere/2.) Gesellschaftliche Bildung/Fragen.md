@@ -57,7 +57,7 @@ Bsp.: Kann 1€ heute eine Kaugummi kaufen und in 5 Jahren kann 1€ keinen Kaug
 title: 
 Konjunkturelle Schwankungen sind mittelfristige Schwankungen in der **gesamten** **Wirtschaft**. Es wird mittels eines Modells beschrieben und anhand des BIP gemessen.
 
-![test](https://cdn.discordapp.com/attachments/613625981219110914/973481589638053889/Untitled.png)
+![Konjunkturphasen](https://cdn.discordapp.com/attachments/613625981219110914/973481589638053889/Untitled.png)
 Generell wird dieses modell in **4 Phasen** untertielt:
 - Aufschwung
 	- Der Konsum steigt an und die Vorhergehende Krise wird überwunden. Die Arbeitslosigkeit sinkt und die Unternehmen investieren mehr.
@@ -69,16 +69,30 @@ Generell wird dieses modell in **4 Phasen** untertielt:
 	- Geringe Kapazitätauslastung, Lagerbestände sind hoch, **Massenentlassung** sowie **niedriger** **Konsum**. Das BIP sinkt (aber nicht mehr so stark). Es gibt **erste** **Anzeichen** einer **Erholung**.
 
 Alle 4 Konjunkturphasen zusammen ergeben einen **Konjunkturzyklus**, der im Modell immer wieder durchlaufen wird. Nach der Rezession leitet ein Aufschwung einen neuen Konjunkturzyklus ein.
-```
 
+---
+Antizyklische Fiskalpolitik
+Wenn der Fiskus (= der Staat) in die Wirtschaftspolitik eingreift um die Konjunkturphasen zu vermindern, nennt man dies Fiskalpolitik. Da die Maßnahmen mit denen der Staat eingreift genau gegen die Konjunkturphasen gerichtet sind, nennt man diese **Antizyklische Fiskalpolitik**
+![Boom & Rezession](https://cdn.discordapp.com/attachments/613625981219110914/973535077319450625/Untitled.png)
+
+![Steuern & Ausgaben](https://cdn.discordapp.com/attachments/613625981219110914/973535900518723614/Untitled.png)
+
+Während eines **Booms** sind die **Steuereinnahmen** **hoch**, weil die meisten eingestellt sind und die **Staatsausgaben niedrig**, da der Staat nicht viel ausgeben muss.
+
+<abbr title="Die gesamtwirtschaftliche Nachfrage wird durch Verringerung der Staatsausgaben und Erhöhung der Staatseinnahmen gedämpft.">Genaue Erklärung Boom</abbr>
+
+Während einer **Rezession** sind die **Steuereinnahmen niedrig** weil viele entlassen werden und die **Staatsausgaben hoch**.
+
+<abbr title="Die gesamtwirtschaftliche Nachfrage wird durch Erhöhung der Staatsausgaben und Verringerung der Staatseinnahmen angekurbelt.">Genaue Erklärung Rezession</abbr>
+
+![Eingrenzen der Extreme](https://cdn.discordapp.com/attachments/613625981219110914/973536966807257098/Untitled.png)
+Durch das Eingreifen des Staates können beide Extreme eingegrenzt und deren Auswirkungen somit verringert werden.
+```
 ##### -----------------------------------------------------------
 ##### Wer tut sich schwer wenns teurer wird?
-
+Die schwächsten Bürger der Gesellschaft.
 ##### -----------------------------------------------------------
 ##### Wann kommt es zu Streiks?
-
-##### -----------------------------------------------------------
-##### Was ist Geldmenge?
 
 ##### -----------------------------------------------------------
 ##### Marktgleichgewicht --> Nachfrage/Angebot stimmen überein
@@ -94,3 +108,4 @@ Alle 4 Konjunkturphasen zusammen ergeben einen **Konjunkturzyklus**, der im Mode
 
 ##### -----------------------------------------------------------
 ##### Polypol / Oligopol / Monopol
+![Pole](https://cdn.discordapp.com/attachments/613625981219110914/973538412848099338/Untitled.png)
