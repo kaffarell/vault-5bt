@@ -4,7 +4,7 @@ title:
 Geld muss **Wertbeständig**, **leicht** **transportierbar** und **Fälschungssicher** sein.
 ```
 ##### -----------------------------------------------------------
-##### Was ist Bargeld/Buchgelderfüllen‌
+##### Was ist Bargeld/Buchgeld
 ```ad-info
 title:
 Buchgeld ist "unsichtbar" und existiert nur digital als "Gutschrift" auf der Bank.
