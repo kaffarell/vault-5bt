@@ -50,6 +50,7 @@ Konjunkturelle Schwankungen sind mittelfristige Schwankungen in der **gesamten**
 ![test](https://cdn.discordapp.com/attachments/613625981219110914/973481589638053889/Untitled.png)
 Generell wird dieses modell in **4 Phasen** untertielt:
 - Rezession
+	- Geringe Kapazitätauslastung, Lagerbestände sind hoch, **Massenentlassung** sowie **niedriger** **Konsum**. Das BIP sinkt (aber nicht mehr so stark). Es gibt erste Anzeichen einer Erholung.
 - Boom
 - Aufschwung
 - Abschwung
