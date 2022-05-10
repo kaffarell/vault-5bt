@@ -1,7 +1,7 @@
 
 ## Naturalismus - 1880-1900
 
--   Als Fortführung des Naturalismus angesehen
+-   Als Fortführung des Realismus angesehen
 -   will die Natur und den Menschen nicht als Bild sondern als Abbild erfassen und gestalten
 -   besch. sich eher mit der Schattenseite der menschlichen Existenzen
 -   Autoren
