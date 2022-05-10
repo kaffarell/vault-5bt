@@ -1,79 +1,88 @@
+##### Welche Funktion muss das Geld erfüllen
 ```ad-info
-title: ##### Welche Funktion muss das Geld erfüllen
+title: 
 Geld muss **Wertbeständig**, **leicht** **transportierbar** und **Fälschungssicher** sein.
 ```
----
+##### -----------------------------------------------------------
+##### Was ist Bargeld/Buchgelderfüllen‌
 ```ad-info
-title: ##### Was ist Bargeld/Buchgelderfüllen
+title:
 Buchgeld ist "unsichtbar" und existiert nur digital als "Gutschrift" auf der Bank.
 Im Gegensatz zu Buchgeld ist Bargeld jenes Geld, welches wirklich vorhanden ist (Banknoten und Münzen).
 ```
----
+##### -----------------------------------------------------------
+##### Inflation und Deflation‌
 ```ad-info
-title: ##### Inflation und Deflation
+title:
 **Inflation** ist, wenn Geld an Wert verliert (Bsp.: Heute kostet ein Bier 3€, in 10 Jahren kostet ein Bier 5€).
 **Deflation** ist, wenn Geld an Wert gewinnt (Bsp.: Heute kostet ein Bier 3€, in 10 Jahren kostet ein Bier 1€).
 
 Ein wenig **Inflation** (ca. 2%) ist gut für die Wirtschaft. Der Hintergedanke ist, dass sich Menschen denken "Ich gebe das Geld besser jetzt aus, da es in ein paar Jahren eh weniger wert ist, und es deshalb nichts bringt es zu sparen".
 **Deflation** ist im Gegensatz schlecht für die Wirtschaft, da Menschen kein Geld ausgeben, sondern es aufsparen, da es in ein paar Jahren mehr Wert ist.
 ```
----
+##### -----------------------------------------------------------
+##### V‌erbraucherpreisindex
 ```ad-info
-title: ##### Verbraucherpreisindex
+title:
 Der Verbraucherpreisindex gibt die Preissteigerung innerhalb eines Monats an. Er wird auf Grund eines **Warenkorbes** berechnet. In diesem befinden sich Verbrauchsgüter, welcher ein durchschnittlicher Privathaushalt verbraucht.
 Der Verbraucherpreisindex auf ein Jahr gerechnet, ist als **Teuerungsrate** bekannt.
 ```
----
+##### -----------------------------------------------------------
+##### Welche Ziele/Aufgaben hat die EZB‌
 ```ad-info
 title: ##### Welche Ziele/Aufgaben hat die EZB
 Die EZB (Europäische Zentralbank) regelt den Geldfluss innerhalb Europas.
 Sie sind u.a. dafür verantwortlich, Geld zu Drucken und alles im Zusammenhang mit Finanzen innerhalb der EU zu regeln.
 
 ```
----
+##### -----------------------------------------------------------
+##### Geldwertstabilität
 ```ad-info
-title: ##### Geldwertstabilität
+title:
 Das Geld hat langfristig einen vorhersehbaren Wert.
 Bsp.: Ein Euro hat heute ca. die gleiche **Kaufkraft** wie in 10 Jahren.
 ```
----
+##### -----------------------------------------------------------
+##### Kaufkraft‌
 ```ad-info
-title: Kaufkraft
+title: 
 Was ein Gewisser Geldwert kaufen kann.
 Bsp.: Kann 1€ heute eine Kaugummi kaufen und in 5 Jahren kann 1€ keinen Kaugummi mehr kaufen, weil ein Kaugummi mehr kostet, so hat der Euro an Kaufkraft verloren.
+![Kaufkraft|600](https://cdn.discordapp.com/attachments/613625981219110914/973525579661987890/unknown.png)
 ```
----
+##### -----------------------------------------------------------
+##### Konjunktur-Schwankungen/Phasen‌
 ```ad-info
-title: ##### Konjunktur-Schwankungen/Phasen
+title: 
 Konjunkturelle Schwankungen sind mittelfristige Schwankungen in der **gesamten** **Wirtschaft**. Es wird mittels eines Modells beschrieben und anhand des BIP gemessen.
 
 ![test](https://cdn.discordapp.com/attachments/613625981219110914/973481589638053889/Untitled.png)
 Generell wird dieses modell in **4 Phasen** untertielt:
-- Rezession
-	- Geringe Kapazitätauslastung, Lagerbestände sind hoch, **Massenentlassung** sowie **niedriger** **Konsum**. Das BIP sinkt (aber nicht mehr so stark). Es gibt erste Anzeichen einer Erholung.
-- Boom
 - Aufschwung
+	- Der Konsum steigt an und die Vorhergehende Krise wird überwunden. Die Arbeitslosigkeit sinkt und die Unternehmen investieren mehr.
+- Boom
+	- **Konsum** **steigt** weiter und die **Wirtschaft** ist **voll** **ausgelasten**. **Preise** **steigen** und die Zuwachsrate des BIP nimmt ab, die **Zukunftserwartungen** **verschlechtern** **sich**.
 - Abschwung
+	- **Konsum** und **Kapazitätauslastung** der Unternehmen **sinken**. Die **Zukunft** wird **pesimistisch** eingeschätzt und es wird **wenig** **investiert**. Mehr **Menschen** werden **entlassen** und **Haushalte** **sparen** mehr. Das **BIP** **sinkt**
+- Rezession
+	- Geringe Kapazitätauslastung, Lagerbestände sind hoch, **Massenentlassung** sowie **niedriger** **Konsum**. Das BIP sinkt (aber nicht mehr so stark). Es gibt **erste** **Anzeichen** einer **Erholung**.
 
 Alle 4 Konjunkturphasen zusammen ergeben einen **Konjunkturzyklus**, der im Modell immer wieder durchlaufen wird. Nach der Rezession leitet ein Aufschwung einen neuen Konjunkturzyklus ein.
 ```
 
-### Konjunktur Schwankungen/Phasen (Idealtypischer Konjunkturverlauf - Konjunktionszyklus Diagramm wichtig)
+##### -----------------------------------------------------------
+##### Wer tut sich schwer wenns teurer wird?
 
-### Konjunkturphasen --> Aufschwung/Abschwung/Boom/Rezession --> zB Wärend eines Boom steigen die Preise an? (Wahr/Falsch?)?
+Wann kommt es zu Streiks?
 
-### Wer tut sich schwer wenns teurer wird?
+Was ist Geldmenge?
 
-### Wann kommt es zu Streiks?
+Marktgleichgewicht --> Nachfrage/Angebot stimmen überein
 
-### Was ist Geldmenge?
+Gleichgewichts ???? Was passiert wenn Nachfrage Kurve und Angebotskurve aufeinander treffen?
 
-### Marktgleichgewicht --> Nachfrage/Angebot stimmen überein
+Haushaltsüberschüsse/defizite -  Was fördert/dämpft Konjunktur?
 
-### Gleichgewichts ???? Was passiert wenn Nachfrage Kurve und Angebotskurve aufeinander treffen?
+Antizyklisches Handeln
 
-### Haushaltsüberschüsse/defizite -  Was fördert/dämpft Konjunktur?
-
-### Antizyklisches Handeln
-
-### Polypol / Oligopol / Monopol
+Polypol / Oligopol / Monopol
