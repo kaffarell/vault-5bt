@@ -21,13 +21,6 @@ Ein wenig **Inflation** (ca. 2%) ist gut für die Wirtschaft. Der Hintergedanke 
 **Deflation** ist im Gegensatz schlecht für die Wirtschaft, da Menschen kein Geld ausgeben, sondern es aufsparen, da es in ein paar Jahren mehr Wert ist.
 ```
 ##### -----------------------------------------------------------
-##### Nachfragesoginflation
-- bei steigenden Staatsausgaben und Haushaltsdefiziten
-- Anstieg von Konsum und Investitionen
-- Anstieg des Außenbeitrags (mehr Exporte als Importe) --> auch imp. Inflation genannt 
-###### Kostendruckinflation
-- Lohnerhöhungen
-- höhere Rostoffkosten
 
 ##### V‌erbraucherpreisindex
 ```ad-info
@@ -44,6 +37,25 @@ Bsp.: Ein Euro hat heute ca. die gleiche **Kaufkraft** wie in 10 Jahren.
 ![Geldwertstabilität](https://cdn.discordapp.com/attachments/613625981219110914/973528540425367583/unknown.png)
 ```
 ##### -----------------------------------------------------------
+##### Ursachen der Geldwertschwankungen
+```ad-info
+title:
+Nicht Teil der Fragen aber:
+
+**Nachfragesoginflation**
+- bei steigenden Staatsausgaben und Haushaltsdefiziten
+- Anstieg von Konsum und Investitionen
+- Anstieg des Außenbeitrags (mehr Exporte als Importe) --> auch imp. Inflation genannt
+ 
+**Kostendruckinflation**
+- Lohnerhöhungen
+- höhere Rohstoffkosten
+
+
+**Die Geldwertstabilität gilt im Euroraum als gewährleistet,
+wenn die jährliche Inflationsrate nicht mehr als 2% beträgt.**
+```
+
 ##### Welche Ziele/Aufgaben hat die EZB‌
 ```ad-info
 title: ##### Welche Ziele/Aufgaben hat die EZB
