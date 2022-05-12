@@ -9,4 +9,5 @@ Differentialgleichung
 
 Wahrscheinlichkeit
 	Baumdiagramm
-	Binomialverteilung
+	[[2.) Zufall & Wahrscheinlichkeit|Binomialverteilung]]
+
