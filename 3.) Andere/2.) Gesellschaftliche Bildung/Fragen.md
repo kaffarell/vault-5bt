@@ -4,7 +4,7 @@ title:
 Geld muss **Wertbeständig**, **leicht** **transportierbar** und **Fälschungssicher** sein.
 ```
 ##### -----------------------------------------------------------
-##### Was ist Bargeld/Buchgelderfüllen‌
+##### Was ist Bargeld/Buchgeld
 ```ad-info
 title:
 Buchgeld ist "unsichtbar" und existiert nur digital als "Gutschrift" auf der Bank.
@@ -21,6 +21,7 @@ Ein wenig **Inflation** (ca. 2%) ist gut für die Wirtschaft. Der Hintergedanke 
 **Deflation** ist im Gegensatz schlecht für die Wirtschaft, da Menschen kein Geld ausgeben, sondern es aufsparen, da es in ein paar Jahren mehr Wert ist.
 ```
 ##### -----------------------------------------------------------
+
 ##### V‌erbraucherpreisindex
 ```ad-info
 title:
@@ -36,6 +37,25 @@ Bsp.: Ein Euro hat heute ca. die gleiche **Kaufkraft** wie in 10 Jahren.
 ![Geldwertstabilität](https://cdn.discordapp.com/attachments/613625981219110914/973528540425367583/unknown.png)
 ```
 ##### -----------------------------------------------------------
+##### Ursachen der Geldwertschwankungen
+```ad-info
+title:
+Nicht Teil der Fragen aber:
+
+**Nachfragesoginflation**
+- bei steigenden Staatsausgaben und Haushaltsdefiziten
+- Anstieg von Konsum und Investitionen
+- Anstieg des Außenbeitrags (mehr Exporte als Importe) --> auch imp. Inflation genannt
+ 
+**Kostendruckinflation**
+- Lohnerhöhungen
+- höhere Rohstoffkosten
+
+
+**Die Geldwertstabilität gilt im Euroraum als gewährleistet,
+wenn die jährliche Inflationsrate nicht mehr als 2% beträgt.**
+```
+
 ##### Welche Ziele/Aufgaben hat die EZB‌
 ```ad-info
 title: ##### Welche Ziele/Aufgaben hat die EZB
@@ -88,11 +108,17 @@ Während einer **Rezession** sind die **Steuereinnahmen niedrig** weil viele ent
 ![Eingrenzen der Extreme](https://cdn.discordapp.com/attachments/613625981219110914/973536966807257098/Untitled.png)
 Durch das Eingreifen des Staates können beide Extreme eingegrenzt und deren Auswirkungen somit verringert werden.
 ```
+
+
+Haushaltsüberschüsse/defizite -  Was fördert/dämpft Konjunktur?
 ##### -----------------------------------------------------------
 ##### Wer tut sich schwer wenns teurer wird?
-Die schwächsten Bürger der Gesellschaft.
-##### -----------------------------------------------------------
-##### Wann kommt es zu Streiks?
+```ad-info
+title: 
+Die schwächsten Gruppen der Gesellschaft leiden am meisten unter einer Inflation, weil sie sich nur begrenzt schützen können. Lohnabhängige, Rentner und Kleinsparer erleiden reale Einkommenseinbußen, während Unternehmer und Inhaber von Sachgütern (Vermieter, Aktionäre) die Preiserhöhungen überwälzen können.
+
+Auf diese Weise verursacht Inflation eine ungerechte Einkommens- und Vermögensverteilung. Hohe Teuerungsraten können den sozialen Zusammenhalt zwischen den Bevölkerungsgruppen gefährden und im schlimmsten Fall zu **Massenstreiks**, Ausschreitungen und Aufständen führen.
+```
 
 ##### -----------------------------------------------------------
 ##### Marktgleichgewicht --> Nachfrage/Angebot stimmen überein
@@ -100,12 +126,11 @@ Die schwächsten Bürger der Gesellschaft.
 ##### -----------------------------------------------------------
 ##### Gleichgewichts ???? Was passiert wenn Nachfrage Kurve und Angebotskurve aufeinander treffen?
 
-##### -----------------------------------------------------------
-##### Haushaltsüberschüsse/defizite -  Was fördert/dämpft Konjunktur?
-
-##### -----------------------------------------------------------
-##### Antizyklisches Handeln
 
 ##### -----------------------------------------------------------
 ##### Polypol / Oligopol / Monopol
+```ad-info
+title: 
+
 ![Pole](https://cdn.discordapp.com/attachments/613625981219110914/973538412848099338/Untitled.png)
+```
