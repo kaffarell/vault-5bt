@@ -1,9 +1,9 @@
 # Restauration 1815-1848
 -   Restauration
-	- Vormärz
-		- Junges Deutschland
-		- Vormärz
-	- Biedermeier
+	- [[5.1 Vormärz|Vormärz]]
+		- [[5.2 Junges Deutschland|Junges Deutschland]]
+		- [[5.1 Vormärz|Vormärz]]
+	- [[5.3 Biedermeier|Biedermeier]]
 ## Geschichtlicher Hintergrund:
 -   1815 Wiener Kongress
 -   Rückkehr zu Welt wie vor franz. Revolution und Napoleon --> Restauration

@@ -11,8 +11,8 @@
 
 #### Ausseinandersetzung mit
 - Großstadt, moderne Zivilisation
-- Entfremdung (a ba [[16) Kafka|Kafka]]) und Verlorenheit
-- Widerstand gegen die Vätergeneration (--> [[16) Kafka|Kafka]]) und ihre als verlogen empfundene Moralvorstellungen
+- Entfremdung (a ba [[12.3 Kafka|Kafka]]) und Verlorenheit
+- Widerstand gegen die Vätergeneration (--> [[12.3 Kafka|Kafka]]) und ihre als verlogen empfundene Moralvorstellungen
 - Kritik am Untertanengeist des Wilhelminismus (gegen das akzeptieren der Monarchie, also der machtlosigkeit unter Kaiser Wilhelm (1888-1918)
 - Schrecken und Sinnlosigkeit eines Krieges
 
@@ -46,7 +46,7 @@ Dadaismus - 1916-1922
 -   neues, freies Kunstverstänndnis --> nicht durch Konventionen bestimmt
 -   Laute, Geräusche und Sinnentfremdung von Worten
 
-[[16) Kafka]]
+[[12.3 Kafka]]
 
 Surrealismus
 
@@ -61,7 +61,7 @@ Surrealismus
 Impressionismus
 
 -   Name von impressionistischen Maler - Gemälde: Impression, solei levant
--   Von der Politik zurückgezogen, vom [[17) Naturalismus|Naturalismus]] abgewandt --> konzentrieren sich auf sich selber
+-   Von der Politik zurückgezogen, vom [[10 Naturalismus|Naturalismus]] abgewandt --> konzentrieren sich auf sich selber
 -   Subjektivismus und Individualismus
 -   Merkmale
 
@@ -71,7 +71,7 @@ Impressionismus
 -   Parataxe (Hauptsätze aneinandergreiht, keine Nebensätze)
 -   Synästhesie (mehrere Sinne miteinander verbunden z.B.:  weiches Blau)
 -   Innerer Monolog
--   Sekundenstil von [[17) Naturalismus|Naturalismus]] übernommen
+-   Sekundenstil von [[10 Naturalismus|Naturalismus]] übernommen
 -   Bewusstseinsstrom: freies Denken, viele Assoziationen - man springt von einem zum anderen
 -   äußere Handlung in Hintergrund, Wahrnehmungs und Reizempfindlichkeit der Dichter im Vordergrund, die eigenen Impressionen
 
