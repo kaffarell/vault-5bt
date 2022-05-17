@@ -27,63 +27,14 @@
 * Übertreibung
 
 ## Teilströmungen
+- [[12.1 Dadaísmus|Dadaismus]]
+- [[12.2 Surrealismus|Surrealismus]]
 
-Dadaismus - 1916-1922
 
--   Anti-Kunst
--   Merkmale
+- #### Siehe auch
+	- [[12.3 Kafka|Kafka]]
 
--   Neuanfang
--   Hässlicghes in der Kunst abbilden
--   gegen das Hässliche
--   Einfach
--   Zufall
 
--   lehnt konventionelle Kunst ab
--   neues, freies Kunstverstänndnis --> nicht durch Konventionen bestimmt
--   Laute, Geräusche und Sinnentfremdung von Worten
 
-[[12.3 Kafka]]
-
-Surrealismus
-
--   aus dem Dadaismus entstanden
--   Kunstbewegung
--   Merkmale
-
--   Motive sind gegensätzlich, widersprüchlich
--   lassen sich nicht rational erklären
--   vereint Träume und Vision
-
-Impressionismus
-
--   Name von impressionistischen Maler - Gemälde: Impression, solei levant
--   Von der Politik zurückgezogen, vom [[10 Naturalismus|Naturalismus]] abgewandt --> konzentrieren sich auf sich selber
--   Subjektivismus und Individualismus
--   Merkmale
-
--   erlebte Rede
--   freie Rhytmen (Sprache)
--   Lautmalerei (Geräusche - Onomatopoesie)
--   Parataxe (Hauptsätze aneinandergreiht, keine Nebensätze)
--   Synästhesie (mehrere Sinne miteinander verbunden z.B.:  weiches Blau)
--   Innerer Monolog
--   Sekundenstil von [[10 Naturalismus|Naturalismus]] übernommen
--   Bewusstseinsstrom: freies Denken, viele Assoziationen - man springt von einem zum anderen
--   äußere Handlung in Hintergrund, Wahrnehmungs und Reizempfindlichkeit der Dichter im Vordergrund, die eigenen Impressionen
-
--   Wiener Literate der [[18) Jahrhundertwende|Jahrhundertwende]] gleichzeitig auch die 2 wichtigsten des Impressionismus
-
--   Arthur Schnitzler
--   Hugo von Hoffmansthal
-
--   Gattungen
-
--   Skizze
--   Novelle (mittellang, eine Handlung die auf ein Ziel hinarbeitet)
--   Einakter - Theaterstück mit einem Akt
--   Lyrik
-
--   Leutnant Gustl - Arthur Schnitzler
 
 
