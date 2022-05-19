@@ -11,3 +11,12 @@ Wahrscheinlichkeit
 	Baumdiagramm
 	[[2.) Zufall & Wahrscheinlichkeit|Binomialverteilung]]
 
+$\int\frac{1}{x^3+x}$
+$\downarrow$
+$\frac{1}{x(x^2+1)}= \frac{A}{x} + \frac{Bx}{x^2+1}$
+$\downarrow$
+$1=A(x^2+1)+Bx^2$
+
+
+
+
