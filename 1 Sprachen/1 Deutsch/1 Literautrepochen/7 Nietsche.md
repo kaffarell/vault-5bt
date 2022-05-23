@@ -1,4 +1,4 @@
-# Friedrich Nietsche
+# Friedrich Nietzsche
  - Geburt des Übermensch
 	-   "Der Mensch ist etwas, das überwunden werden muss"
 -   "Gott ist tot" --> Moral ist nicht länger aufrechterhaltbar --> Mensch emanzipiert sich von Religion und Glaube
