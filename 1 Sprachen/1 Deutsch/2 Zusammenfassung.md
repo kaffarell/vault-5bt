@@ -1,3 +1,5 @@
+```toc
+```
 # Aufklärung
 17-18 Jh. (Beginnt mit Rennaissance)
 Vernunftdenken --> von alten Sitten befreien
@@ -9,7 +11,7 @@ Wichtiger Grund für Fr. Revolution
 Kant
 	Ausgang des Menschen aus seiner selbstverschuldeten unmündigkeit
 
-# Empfindsamkeit
+## Empfindsamkeit
 Gefühle auch wichtig
 Verstand & Gefühle oft gegenübergestellt
 
@@ -100,26 +102,15 @@ Steht in Zusammenhang mit:
 Theodor Fontane (Poetischer Realismus)
 	Werke möglichst nahe an echter Welt
 
-##### Naturalismus
-Kunst = Natur - X
-Stellt bewusst Hässliches dar (Trinksucht, Mord, etc.)
-Soll schocken und provozieren
-Gegen Willhelms Staat & Militär
-Industrialisierung --> Urbanisierung -->Unterschied Schichten --> Alkoholismus & Drogenkonsum
-Sekundenstil
-Geenaue Regieanweisungen mit Dialekten und Pausen
-"Mann hat das Sagen" wird gebrochen
-Hörigkeit
-
-##### Neue Sachlichkeit
+## Neue Sachlichkeit
 Wirklichkeitsnahe
 Von Frauen
 Frauen als Hauptcharakter
 
-##### Sozialistischer Realismus
+## Sozialistischer Realismus
 Welt nicht nur wie sie ist, sondern wie sie sein sollte (sozialistisch)
 
-### Nietzsche
+## Nietzsche
 Nihilismus --> Alles seiende Sinnlos
 Kulturpesimissmus --> Alles menschen gemachte schlecht
 Religion --> Ursache Kulturpesimissmus
@@ -127,7 +118,7 @@ Religion --> Ursache Kulturpesimissmus
 	Morale aus Bibel = Fehler
 Kunst einziger Ausweg aus Nihilismus
 
-##### Nihilismus 3 Phasen
+### Nihilismus 3 Phasen
 Passiver Nihilismus
 	Leben Sinnlos
 
@@ -148,9 +139,10 @@ Aktiver Nihilismus
 		Sagt ja zum Schaffen --> Schaffen Symbol Künstler
 		Kind unschuldig --> Symbol für neubeginn
 
-### Positivismus
--   alles ist mit der Wissenschaft erklärbar
--   Naturwissenschaft die einzige "echte" Wissenschaft
+# Philosophische Strömungen
+## Positivismus
+- alles ist mit der Wissenschaft erklärbar
+- Naturwissenschaft die einzige "echte" Wissenschaft
 
 3 Erkenntnisstadien
 Mythologisches
@@ -160,9 +152,53 @@ $\downarrow$ Gott mit Seele abstrahiert
 Wissenschaft
    Handlungen werden analysiert und erklärt
 
-### Utilitarismus
+## Utilitarismus
 Größt mögliches Glück für größte Anzahl an Menschen
 
+## Milieutheorie
+Menschen werden geprägt von ihrem Umfeld und ihrer Herkunft (Rasse, nicht Genetik). Weiters sind Sie geprägt von der Zeit in der Sie geboren sind und das Menschenbild ist determiniert (er hat keinen freien Willen)
+
+## Materialistische Geschichtsauffassung
+![Materialistische Geschichtsauffassung](https://cdn.discordapp.com/attachments/818403821599457280/976006362955927562/unknown.png)
+
+## Evolutionstheorie
+Sozialdarwinismus
+
+## Soziologie
+- Königin der Wissenschaft - weil sich mit der Gesellschaft Auseinadersetzt
+- Messwerte der Gesellschaft
+	- Mitgefühl
+	- Altruismus - gegenteil von egoismus
+	- Achtung und Respekt vor menschlichen Leistungen
+
+## Symbolismus
+- zur Jahrhundertwende
+- Abneigung gegenüber einem Sinn und Sachlichkeit
+- Ziel: __eine Welt der Schönheit erschaffen__
+- Gegenbewegung zu Realismus und Naturalismus
+# Jahrhundertwende
+Wien & Berlin im Wachstum
+Wohnungsnot --> Mordernisierung, Architektur, viel Neues --> Konglomerat zwischen alt und neu
+
+### Auf der Terrasse des Cafe Josty
+Expressionismus --> negative Einstellung zur Industrialisierung
+
+### Der Mann ohne Eigenschaften
+- Jahrhundertwende:
+	- eine positive Zeit
+	- Menschen hatten respekt voneinander
+	- viele widersprüchliche Ereignisse und Weltansichten
+	- Unsicherheit
+	- Vereinigung von unterschiedlichen Phänomenen
+
+### Eckiger Kreis
+- die ganzen Weltansichten haben sich widersprochen
+- jedoch hat alles im großen und ganzen trotzdem funktioniert
+
+### Ich fürchte mich vor der Menschen Wort
+- Gedicht will die Leute zum Nachdenken bringen - Nutzen wir die Sprache falsch?
+- kann auch auf heute übertragen werden
+- Passt in die Jahrhundertwende hinein --> Sprachskepsis/Sprachzerfall
 
 ### Wien
 Fröhliche Apokalypse
@@ -173,9 +209,54 @@ Politisch & Historisch desilusioniert --> verlor Sinn --> überspielung durch ve
 In De. Aufbruchstimmung wegen Industrialisierung
 In At. Untergangsstimmung wegen Ausschluss aus deutschem Bund
 
+Viel Impressionismus
 
+Nicht alles was glänzt ist Gold
+Es haut auch Nachteile in Großstadt zu leben
+"Ätsender Nihilismus innen, außen nichts als ein verführerischer Kulissenzauber" trift auf eine bezaubernde Großstädte vor. Der Mensch hat das Verlangen immer das zu wollen, was er nicht hat. So freut man sich auf das Leben in der Großstadt wenn man auf dem Land lebt, ist mann jedoch wirklich dort, merkt mann, dass es auch viele Nachteile gibt.
 
+Siehe auch:
+[[9 Jahrhundertwende]]
 
+### Sprachnot, Sprachskepsis & Sprachzerfall
+Sprachskepsis: Zweifel an Vermittlungsfähigkeit der Sprache
+Sprachnot: Unfähigkeit sich auszudrücken da die Hoffnung in die Sprache verloren ist
+Sprachzerfall: Verlust der Sprache
+
+Bsp. 
+Anfangs war Weib ein normaler Begriff
+Sprachskepsis --> Ist der Begriff überhaupt noch angebracht?
+Sprachnot --> Der Begriff kann nicht mehr benutzt werden, es muss ein anderer Begriff gefunden werden.
+Sprachzerfall --> Das Wort hat nichts mehr mit seiner eigentlichen Bedeutung gemein und wird kaum noch verwendet.
+
+# Naturalismus
+Kunst = Natur - X
+Stellt bewusst Hässliches dar (Trinksucht, Mord, etc.)
+Soll schocken und provozieren
+Gegen Willhelms Staat & Militär
+Industrialisierung --> Urbanisierung -->Unterschied Schichten --> Alkoholismus & Drogenkonsum
+Sekundenstil
+Geenaue Regieanweisungen mit Dialekten und Pausen
+"Mann hat das Sagen" wird gebrochen
+Hörigkeit
+
+# Impressionismus
+Wenig Politik --> konzentrierten sich auf sich selbst
+- Erlebte Rede
+- Freie Rythmen
+- Lautmalereien
+- Innerer Monolog
+- Sekundenstil
+
+# Expressionismus
+
+# Dadaismus
+
+# Surrealismus
+# Kafka
+# Literatur Weimarer Republik
+
+# Literatur im dritten Reich
 
 
 
