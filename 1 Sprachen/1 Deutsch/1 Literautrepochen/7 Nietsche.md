@@ -17,5 +17,5 @@
 -   [[8.7 Symbolismus|Symbolismus]]
 -   [[11 Impressionismus|Impressionismus]]
 -   [[12 Expressionismus|Expressionismus]]
--   [[12.1 Dadaísmus|Dadaismus]]
+-   [[12.1 Dadaismus|Dadaismus]]
 -   [[12.2 Surrealismus|Surrealismus]]

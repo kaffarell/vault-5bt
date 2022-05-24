@@ -27,7 +27,7 @@
 * Übertreibung
 
 ## Teilströmungen
-- [[12.1 Dadaísmus|Dadaismus]]
+- [[12.1 Dadaismus|Dadaismus]]
 - [[12.2 Surrealismus|Surrealismus]]
 
 
