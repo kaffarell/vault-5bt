@@ -191,7 +191,7 @@ In At. Untergangsstimmung wegen Ausschluss aus deutschem Bund
 Viel Impressionismus
 
 Nicht alles was glänzt ist Gold
-Es haut auch Nachteile in Großstadt zu leben
+Es hat auch Nachteile in Großstadt zu leben
 "Ätsender Nihilismus innen, außen nichts als ein verführerischer Kulissenzauber" trift auf eine bezaubernde Großstädte vor. Der Mensch hat das Verlangen immer das zu wollen, was er nicht hat. So freut man sich auf das Leben in der Großstadt wenn man auf dem Land lebt, ist mann jedoch wirklich dort, merkt mann, dass es auch viele Nachteile gibt.
 
 ## Auf der Terrasse des Cafe Josty
