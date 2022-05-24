@@ -5,3 +5,21 @@ Neue Architektur des Bauhauses (Kunstschule bekannt für Minimalismus)
 Neue Sachlichkeit entsteht aus Spannung zwischen rationalem und irrationalem
 
 Viele Werke noch noch expressionistisch aber insgesamt bevorzugen Autoren dokumentarische Literatur, da sie mehr an inhaltlichen als an formalen Fragen interessiert sind.
+
+Ein Reporter muss Nachrichten neutral berichten ohne dabei an seinen eigenen Standpunkt zu denken.
+
+## Der rasende Reporter (Egon Erwin Kisch)
+Er entwickelte seinen Stil der distanzierten Sachlichkeit als Lokalreporter in Prag.
+Laut ihm muss ein Reporter lediglich die Realität so objektiv wie möglich wieder geben ohne dabei seinen eigenen Standpunkt einzubringen. Hierbei beduetet Objektiv nicht, dass man kein interesse hat, sondern lediglich, dass eine unparteiische Verpflichtung zum Menschlichen. Er sieht die Reportage als Kunst und als gesellschaftsveränderndes Kampfinstrument.
+
+Er erzählt knapp & informativ von außgergewöhnlichen Handlungen in ganz Europa. Er schreibt über einmalige Aktualitäten wie den Besuch eines Leichenschauhauses oder die Besichtigung der Wohnung eines Schafrichters. Er verpakt die nackte Information in fiktive Handlungen und lockert diese mit trockenem Humor auf.
+Kisch charakterisiert exakt Milieu
+
+## Maßnahmen gegen die Gewalt
+Keuner spricht sich in Saal gegen Gewalt aus --> Leute wichen vor ihm zurück
+Hinter ihm steht die Gewalt und fragt ihn "Was sagtest du?"
+Er sagte "ich sprch mich für die Gewalt aus"
+Anschließend fragten ihn seine Schüler nach seinem Rückgrat worauf er antwortete "Ich habe kein Rückgrat zum Zerschlagen. Gerade ich muss länger leben als die Gewalt"
+Er erzählte folgende Geschichte:
+Es war ein Mal ein Herr Egge und eines Tages trat ein Agent in seine Wohnung, welcher einen schein besaß, welcher von der Stadt ausgestellt wurde, auf dem stand, dass ihm jedes Haus gehöre, dass er wolle, er jedes Essen bekäme, das er wünsche und jeder ihm dienen müsse.
+Er fragte Egge, ob er ihm diene. Dieser antwortete nicht und tat einfach, was ihm befohlen wurde. Als der Agent nach 7 Jahren fett geworden war und starb, atmete Egge tief ein und sagte "Nein".
