@@ -12,7 +12,7 @@
 
 #### Ausseinandersetzung mit
 - Großstadt, moderne Zivilisation
-- __Entfremdung__ (a ba [[12.3 Kafka|Kafka]]) und Verlorenheit
+- __Entfremdung__ (auch bei [[12.3 Kafka|Kafka]]) und Verlorenheit
 - Widerstand gegen die Vätergeneration (--> [[12.3 Kafka|Kafka]]) und ihre als verlogen empfundene Moralvorstellungen
 - Kritik am Untertanengeist des Wilhelminismus (gegen das akzeptieren der Monarchie, also der machtlosigkeit unter Kaiser Wilhelm (1888-1918)
 - Schrecken und Sinnlosigkeit eines Krieges
