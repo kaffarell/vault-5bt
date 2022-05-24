@@ -16,11 +16,13 @@
 -   Ibsen --> menschliche Psyche
 -   Tolstoi - Russland
 -   Arno Holz
+	- Kunst = Natur - X
 	-   will die Literatur möglichst an die Natur annähern
 	-   X verhindert die Annäherung --> x gegen 0
 	-   X ist das Unnatürliche, welches der Künstler dazugibt z.B.:
 		- das Zeichnen auf Papier
 		- die nicht genaue Darstellung weil die künstlerischen Fähigkeiten die Natur nicht so gut darstellen können
+		- der Künstler selber
 
 ## Themen und Hintergrund
 - bevorzugen das Behandeln von Hässliches

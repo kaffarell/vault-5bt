@@ -243,7 +243,12 @@ Hörigkeit
 - Thiel ermordet seine Frau
 
 ## Papa Hamlet
-
+Typ mit familie
+Seine Frau ist krank
+Sein kind schreit die ganye yeit weil er hat seinen job aufgegeben und verdient kein geld mehr
+sein kind hat asthma
+Seine Wohnung wird geraumt und er erwuergt seinen sohn bevor dies stattfindet und erfriert dann selber betrunken im hafen
+Milieutheorie & Sozialdarwinismus
 # Impressionismus
 Wenig Politik --> konzentrierten sich auf sich selbst
 - Erlebte Rede
@@ -259,11 +264,60 @@ Wenig Politik --> konzentrierten sich auf sich selbst
 - Endet damit, dass er plant sich den Tag danach für oder gegen den Selbstmord zu entscheiden
 
 # Expressionismus
+Verfall, Untergang, Weltende --> konkurriert Glauben an Erneurung
+## Kennzeichen
+* __Verformungen__ in Form und Proportionen
+- grelle __Kontraste__
+- intensive, gemischte __Farbgebung__
 
-# Dadaismus
+## Ausseinandersetzung mit
+- Großstadt, moderne Zivilisation
+- __Entfremdung__ (auch bei [[12.3 Kafka|Kafka]]) und Verlorenheit
+- Widerstand gegen die Vätergeneration (--> [[12.3 Kafka|Kafka]]) und ihre als verlogen empfundene Moralvorstellungen
+- Schrecken und Sinnlosigkeit eines Krieges
 
+## Zynismus
+- lächerlich machen von Normen und Werten der Gesellschaft
+- Zyniker agieren sarkastisch und ironisch --> die Werte anderer lächerlich zu machen
+
+Übersteigerte Wirklichkeit, verzerrt, seltsam, wunderlich
+
+## Dadaismus
+Anti-Kunst
+Nicht durch Konventionen bestimmt
+Laute, Geräusche und Sinnentfremdung von Worten
+Aus Dadismus entstand surrealismus
 # Surrealismus
+- Motive sind gegensätzlich, widersprüchlich
+- lassen sich nicht rational erklären
+- vereint Träume und Vision
+
 # Kafka
+- Leben ist wichtig für das Verstehen seiner Romane
+	- Beziehung zum Vater gespalten
+		- Vater Zyniker
+		- bekommt Geld vom Vater
+		- das Urteil (Vater verurteilt ihn zum Tod durch ertrinken)
+	- Max Brod - Freund
+		- Schwierig - wegen Kafkas Krankheiten
+		- Berater und Begleiter auf Reisen
+		- Hat die Schriften nach Kafkas Tod veröffentlicht
+	- Frauen
+		- zwei Mal ver- und entlobt
+		- insgesamt 3 gescheiterte Ehen
+	- Krankheiten
+		- spanische Grippe
+		- Tuberkulose
+		- --> Kuraufenthalte
+
+## Motive
+- __Entfremdung__
+	- ursprüngliche natürliche Beziehung die jetzt gestört/kaputt ist
+- Protagonisten erkennen sich selbst nicht wieder
+- Protagonisten verwandeln sich
+- Protagonsiten fühlen sich fremd im System
+- Sind Erzähler, werden aber nicht eingeführt oder beschrieben
+
 # Literatur Weimarer Republik
 
 # Literatur im dritten Reich
