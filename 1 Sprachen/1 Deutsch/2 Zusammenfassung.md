@@ -266,7 +266,7 @@ Wenig Politik --> konzentrierten sich auf sich selbst
 # Expressionismus
 Verfall, Untergang, Weltende --> konkurriert Glauben an Erneurung
 ## Kennzeichen
-* __Verformungen__ in Form und Proportionen
+* **Verformungen** in Form und Proportionen
 - grelle __Kontraste__
 - intensive, gemischte __Farbgebung__
 
@@ -319,6 +319,32 @@ Aus Dadismus entstand surrealismus
 - Sind Erzähler, werden aber nicht eingeführt oder beschrieben
 
 # Literatur Weimarer Republik
+Literatur ist Sachlich und Funktional (von den minimalistischen Zügen der Bauhaus Kunstschule inspiriert)
+Spannungen rational & irrational --> Neue Sachlichkeit
+Es gibt noch expressionistische Werke aber Authoren bevorzugen dokumentarische Literatur --> mehr an inhaltlichen Fragen interessiert
+
+Ein Reporter muss neutral berichten ohne dabei an seinen eigenen Standpunkt zu denken
+
+## Der rasende Reporter (Egon Erwin Kisch)
+Entwickelte seinen Stil der distanzierten Sachlichkeit als Lokalreporter in Prag.
+Reporter lediglich Realität so objektiv wie möglich wieder geben ohne dabei seinen eigenen Standpunkt einzubringen
+Objektiv != kein interesse, sondern eine unparteiische Verpflichtung zum Menschlichen
+Er sieht die Reportage als Kunst und als gesellschaftsveränderndes Kampfinstrument
+
+Er erzählt knapp & informativ von außgergewöhnlichen Handlungen in ganz Europa
+Er schreibt über einmalige Aktualitäten wie den Besuch eines Leichenschauhauses oder die Besichtigung der Wohnung eines Schafrichters
+Er verpakt die nackte Information in fiktive Handlungen und lockert diese mit trockenem Humor auf
+Kisch charakterisiert exakt Milieu
+
+## Maßnahmen gegen die Gewalt
+Keuner spricht sich in Saal gegen Gewalt aus --> Leute wichen vor ihm zurück
+Hinter ihm steht die Gewalt und fragt ihn "Was sagtest du?"
+Er sagte "ich sprch mich für die Gewalt aus"
+Anschließend fragten ihn seine Schüler nach seinem Rückgrat worauf er antwortete "Ich habe kein Rückgrat zum Zerschlagen. Gerade ich muss länger leben als die Gewalt"
+Er erzählte folgende Geschichte:
+Es war ein Mal ein Herr Egge und eines Tages trat ein Agent in seine Wohnung, welcher einen schein besaß, welcher von der Stadt ausgestellt wurde, auf dem stand, dass ihm jedes Haus gehöre, dass er wolle, er jedes Essen bekäme, das er wünsche und jeder ihm dienen müsse.
+Er fragte Egge, ob er ihm diene. Dieser antwortete nicht und tat einfach, was ihm befohlen wurde. Als der Agent nach 7 Jahren fett geworden war und starb, atmete Egge tief ein und sagte "Nein".
+
 
 # Literatur im dritten Reich
 

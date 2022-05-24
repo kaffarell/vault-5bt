@@ -4,7 +4,7 @@ Neue Architektur des Bauhauses (Kunstschule bekannt für Minimalismus)
 
 Neue Sachlichkeit entsteht aus Spannung zwischen rationalem und irrationalem
 
-Viele Werke noch noch expressionistisch aber insgesamt bevorzugen Autoren dokumentarische Literatur, da sie mehr an inhaltlichen als an formalen Fragen interessiert sind.
+Viele Werke noch expressionistisch aber insgesamt bevorzugen Authoren dokumentarische Literatur, da sie mehr an inhaltlichen als an formalen Fragen interessiert sind.
 
 Ein Reporter muss Nachrichten neutral berichten ohne dabei an seinen eigenen Standpunkt zu denken.
 
