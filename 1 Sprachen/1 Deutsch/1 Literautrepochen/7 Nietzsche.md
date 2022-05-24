@@ -11,6 +11,20 @@
 -   alles Seiende ist sinnlos
 -   Menschen, die nach dem Nihilismus leben, lehnen sämtliche Ziele und Werte ab
 
+### Die drei Verwandlungen
+-   Geist hat drei Verwandlungen
+	-   Kamel
+		-   geht in die wüste
+		-   trägt die Last der Religion und Gesellschaft
+		-   durch Einsamkeit verwandelt er sich in
+	-   Löwe
+		-   rebellisch
+		-   stellt sich dem Drache der alle Werte und Noren verkörpert(sagt "du sollst")
+		-   will Freiheit, sagt "ich will" --> besiegt den Drachen
+		-   daraufhin Verwandlung zum
+	-   Kind
+		-   ist, nicht wie Löwe, bereit für neue Kenntnisse
+-   stellt in heutiger Zeit persönliche Entwicklung des Menschen dar
 
 ##### Literarische Strömungen die Nietzsche beeinflusst hat:
 -   [[10 Naturalismus|Naturalismus]]
