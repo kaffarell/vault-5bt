@@ -180,27 +180,7 @@ Sozialdarwinismus
 Wien & Berlin im Wachstum
 Wohnungsnot --> Mordernisierung, Architektur, viel Neues --> Konglomerat zwischen alt und neu
 
-### Auf der Terrasse des Cafe Josty
-Expressionismus --> negative Einstellung zur Industrialisierung
-
-### Der Mann ohne Eigenschaften
-- Jahrhundertwende:
-	- eine positive Zeit
-	- Menschen hatten respekt voneinander
-	- viele widersprüchliche Ereignisse und Weltansichten
-	- Unsicherheit
-	- Vereinigung von unterschiedlichen Phänomenen
-
-### Eckiger Kreis
-- die ganzen Weltansichten haben sich widersprochen
-- jedoch hat alles im großen und ganzen trotzdem funktioniert
-
-### Ich fürchte mich vor der Menschen Wort
-- Gedicht will die Leute zum Nachdenken bringen - Nutzen wir die Sprache falsch?
-- kann auch auf heute übertragen werden
-- Passt in die Jahrhundertwende hinein --> Sprachskepsis/Sprachzerfall
-
-### Wien
+## Wien
 Fröhliche Apokalypse
 Wien um Jh.-Wende
 	Chaos herrschte, Wahres & Falsches, Alt & Neu vermischt
@@ -208,17 +188,33 @@ Politisch & Historisch desilusioniert --> verlor Sinn --> überspielung durch ve
 
 In De. Aufbruchstimmung wegen Industrialisierung
 In At. Untergangsstimmung wegen Ausschluss aus deutschem Bund
-
 Viel Impressionismus
 
 Nicht alles was glänzt ist Gold
 Es haut auch Nachteile in Großstadt zu leben
 "Ätsender Nihilismus innen, außen nichts als ein verführerischer Kulissenzauber" trift auf eine bezaubernde Großstädte vor. Der Mensch hat das Verlangen immer das zu wollen, was er nicht hat. So freut man sich auf das Leben in der Großstadt wenn man auf dem Land lebt, ist mann jedoch wirklich dort, merkt mann, dass es auch viele Nachteile gibt.
 
-Siehe auch:
-[[9 Jahrhundertwende]]
+## Auf der Terrasse des Cafe Josty
+Expressionismus --> negative Einstellung zur Industrialisierung
 
-### Sprachnot, Sprachskepsis & Sprachzerfall
+## Der Mann ohne Eigenschaften
+- Jahrhundertwende:
+	- eine positive Zeit
+	- Menschen hatten respekt voneinander
+	- viele widersprüchliche Ereignisse und Weltansichten
+	- Unsicherheit
+	- Vereinigung von unterschiedlichen Phänomenen
+
+## Eckiger Kreis
+- die ganzen Weltansichten haben sich widersprochen
+- jedoch hat alles im großen und ganzen trotzdem funktioniert
+
+## Ich fürchte mich vor der Menschen Wort
+- Gedicht will die Leute zum Nachdenken bringen - Nutzen wir die Sprache falsch?
+- kann auch auf heute übertragen werden
+- Passt in die Jahrhundertwende hinein --> Sprachskepsis/Sprachzerfall
+
+## Sprachnot, Sprachskepsis & Sprachzerfall
 Sprachskepsis: Zweifel an Vermittlungsfähigkeit der Sprache
 Sprachnot: Unfähigkeit sich auszudrücken da die Hoffnung in die Sprache verloren ist
 Sprachzerfall: Verlust der Sprache
@@ -240,6 +236,14 @@ Geenaue Regieanweisungen mit Dialekten und Pausen
 "Mann hat das Sagen" wird gebrochen
 Hörigkeit
 
+## Bahnwärter Thiel
+- Mit Frau verheiratet nur wegen Sex --> __sexuelle Hörigkeit__
+- Frau zieht eigenes Kind vor, mishaldet jenes von Thiel
+- Thiels Kind stirbt bei einem Unfall mit einem Zug
+- Thiel ermordet seine Frau
+
+## Papa Hamlet
+
 # Impressionismus
 Wenig Politik --> konzentrierten sich auf sich selbst
 - Erlebte Rede
@@ -247,6 +251,12 @@ Wenig Politik --> konzentrierten sich auf sich selbst
 - Lautmalereien
 - Innerer Monolog
 - Sekundenstil
+
+ ## Leutnant Gustl - Arthur Schnitzler
+ 
+- Leutnant wird von Bäckermeister bloßgestellt
+- Leutnant Gustl will deswegen Selbstmord begehen
+- Endet damit, dass er plant sich den Tag danach für oder gegen den Selbstmord zu entscheiden
 
 # Expressionismus
 

@@ -23,25 +23,26 @@
 		- die nicht genaue Darstellung weil die künstlerischen Fähigkeiten die Natur nicht so gut darstellen können
 
 ## Themen und Hintergrund
--   bevorzugen das Behandeln von Hässliches
-	-   Trunksucht, Mord, Armut, Hunger, __Sucht__
--   gesellschafltiche Außenseiter werden behandelt
--   bisherige Tabuthemen
-	-   darstellungen der "dunklen Seite" eines Menschen
--   Was macht den Menschen zu dem was er ist? Welche Stellung nimmt de rMenshc innerhalb der Tecchnik ein?
-	-   --> Nähe zu [[2 Sturm und Drang|Sturm und Drang]] und [[5.2 Junges Deutschland|Junges Deutschland]]
--   gegen den Wilhelmismus, Militarismus, Antisemitismus, Klerikalimsus
--   __soziale Frage__ ---> Grund: __Verstädterung__
+- bevorzugen das Behandeln von Hässliches
+	- Trinksucht, Mord, Armut, Hunger, __Sucht__
+- gesellschafltiche Außenseiter werden behandelt
+- bisherige Tabuthemen
+	- darstellungen der "dunklen Seite" eines Menschen
+- Was macht den Menschen zu dem was er ist? Welche Stellung nimmt der Mensch innerhalb der Technik ein?
+	- --> Nähe zu [[2 Sturm und Drang|Sturm und Drang]] und [[5.2 Junges Deutschland|Junges Deutschland]]
+- gegen den Wilhelmismus, Militarismus, Antisemitismus, Klerikalimsus
+- __soziale Frage__ ---> Grund: __Verstädterung__
 
 ## Bahnwärter Thiel
--   mit einer Frau verheiratet nur wegen Sex --> __sexuelle Hörigkeit__
--   Frau zieht nur eigenes Kind vor, nicht das von vorheriger Ehe
--   Thiel ermordet sie
+- Mit Frau verheiratet nur wegen Sex --> __sexuelle Hörigkeit__
+- Frau zieht eigenes Kind vor, mishaldet jenes von Thiel
+- Thiels Kind stirbt bei einem Unfall mit einem Zug
+- Thiel ermordet seine Frau
 
 ## Papa Hamlet
--   Niels Thienwiel
--   Frau erkrankt, Kind erkrankt
--   verliert seine Arbeit
--   aus der Wohunung geschmissen
--   Frau macht Selbstmord, Kind stirbt oder getötet (woaß i nimmer)
--   erfriert zuletzt Draußen im Kalten
+- Niels Thienwiel
+- Frau erkrankt, Kind erkrankt
+- verliert seine Arbeit
+- aus der Wohunung geschmissen
+- Frau begeht Selbstmord, Kind stirbt oder getötet (woaß i nimmer)
+- erfriert zuletzt Draußen im Kalten
