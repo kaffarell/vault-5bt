@@ -1,5 +1,6 @@
 ```toc
 ```
+
 # Aufklärung
 17-18 Jh. (Beginnt mit Rennaissance)
 Vernunftdenken --> von alten Sitten befreien
@@ -347,54 +348,4 @@ Er fragte Egge, ob er ihm diene. Dieser antwortete nicht und tat einfach, was ih
 
 
 # Literatur im dritten Reich
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[14 Literatur im Dritten Reich]]
