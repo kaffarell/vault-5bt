@@ -1,7 +1,7 @@
 # Impressionismus
--   Name von impressionistischen Maler - Gemälde: __Impression, solei levant__
--   Von der Politik zurückgezogen, vom Naturalismus abgewandt --> __konzentrieren sich auf sich selber__
--   __Subjektivismus und Individualismus__
+- Name von impressionistischen Maler - Gemälde: __Impression, solei levant__
+- Von der Politik zurückgezogen, vom Naturalismus abgewandt --> __konzentrieren sich auf sich selber__
+- __Subjektivismus und Individualismus__
 ## Merkmale
 -   erlebte Rede
 -   freie Rhytmen (Sprache)
