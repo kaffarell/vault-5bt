@@ -1,4 +1,4 @@
-# Philosophische Strümungen zur Jahrhundertwende
+# Philosophische Strömungen zur Jahrhundertwende
 - [[8.1 Positivismus|Positivismus]]
 - [[8.2 Utilitarismus|Utilitarismsus]]
 - [[8.3 Milieutheorie|Milieutheorie]]

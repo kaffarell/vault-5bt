@@ -61,19 +61,6 @@
 	- Durch das wegwischen werden sie ineinander verschwommen
 		- --> Sehnsucht und Hoffnung verschwinden auch
 
-- Am Ende ist der tolle Mensch (=verückte Menschen) entgeistert und sagt dass er zu früh gekommen ist
+- Am Ende ist der tolle Mensch (=verrückte Menschen) entgeistert und sagt dass er zu früh gekommen ist
 
-### Die drei Verwandlungen
--   Geist hat drei Verwandlungen
-	-   Kamel
-		-   geht in die wüste
-		-   trägt die Last der Religion und Gesellschaft
-		-   durch Einsamkeit verwandelt er sich in
-	-   Löwe
-		-   rebellisch
-		-   stellt sich dem Drache der alle Werte und Noren verkörpert(sagt "du sollst")
-		-   will Freiheit, sagt "ich will" --> besiegt den Drachen
-		-   daraufhin Verwandlung zum
-	-   Kind
-		-   ist, nicht wie Löwe, bereit für neue Kenntnisse
--   stellt in heutiger Zeit persönliche Entwicklung des Menschen dar
+Auch hier: [[7 Nietzsche#Die drei Verwandlungen]]
