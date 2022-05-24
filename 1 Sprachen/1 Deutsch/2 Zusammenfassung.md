@@ -19,7 +19,7 @@ Verstand & Gefühle oft gegenübergestellt
 Genie muss Individuell & Kreativ sein --> keinen allgemeinen Regeln unterworfen
 Lyrik über: Liebe, Natur & subjektive Erlebnisse
 Literarische Jugendbewegung
-Yusammenstoß des Einzelnen mit Gesellschatlicher Wirklichkeit
+Zusammenstoß des Einzelnen mit Gesellschatlicher Wirklichkeit
 Führte Aufklärung weiter aber wollte:
 	Freiheit
 		Literarisch, Politisch & Persönlich
