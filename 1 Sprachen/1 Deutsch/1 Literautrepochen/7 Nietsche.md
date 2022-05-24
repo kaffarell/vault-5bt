@@ -1,4 +1,4 @@
-# Friedrich Nietsche
+# Friedrich Nietzsche
  - Geburt des Übermensch
 	-   "Der Mensch ist etwas, das überwunden werden muss"
 -   "Gott ist tot" --> Moral ist nicht länger aufrechterhaltbar --> Mensch emanzipiert sich von Religion und Glaube
@@ -17,5 +17,5 @@
 -   [[8.7 Symbolismus|Symbolismus]]
 -   [[11 Impressionismus|Impressionismus]]
 -   [[12 Expressionismus|Expressionismus]]
--   [[12.1 Dadaísmus|Dadaismus]]
+-   [[12.1 Dadaismus|Dadaismus]]
 -   [[12.2 Surrealismus|Surrealismus]]
