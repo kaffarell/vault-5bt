@@ -2,7 +2,7 @@
 Funktionaler und sachlicher Stil
 Neue Architektur des Bauhauses (Kunstschule bekannt für Minimalismus)
 
-Neue Sachlichkeit entsteht aus Spannung zwischen rationalem und irrationalem
+[[13.1 Neue Sachlichkeit |  Neue Sachlichkeit]] entsteht aus Spannung zwischen rationalem und irrationalem
 
 Viele Werke noch expressionistisch aber insgesamt bevorzugen Authoren dokumentarische Literatur, da sie mehr an inhaltlichen als an formalen Fragen interessiert sind.
 
@@ -21,6 +21,8 @@ Kisch charakterisiert exakt Milieu
 
 
 ## Maßnahmen gegen die Gewalt
+- Parabel --> typisch für Weimarer Republik - lehrender Sinn dahinter
+
 Keuner spricht sich in Saal gegen Gewalt aus --> Leute wichen vor ihm zurück
 Hinter ihm steht die Gewalt und fragt ihn "Was sagtest du?"
 Er sagte "ich sprch mich für die Gewalt aus"
