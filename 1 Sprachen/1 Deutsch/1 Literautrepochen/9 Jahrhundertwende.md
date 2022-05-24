@@ -38,7 +38,7 @@
 - kann auch auf heute übertragen werden
 - Passt in die Jahrhundertwende hinein --> Sprachskepsis/Sprachzerfall
 
-### Gott ist Tot und wir sind seine Mörder
+### Gott ist Tot und wir sind seine Mörder - [[7 Nietzsche|Nietzsche]]
 - Erzählung von mann mit Laterne, der zu früh da ist, keiner hat noch gemerkt dass Gott tot ist
 - Gott ist tot weil
 	- Die Menschen glauben, dass sie wichtiger sind

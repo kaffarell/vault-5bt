@@ -1,7 +1,7 @@
 # Friedrich Nietzsche
  - Geburt des Übermensch
 	-   "Der Mensch ist etwas, das überwunden werden muss"
--   "Gott ist tot" --> Moral ist nicht länger aufrechterhaltbar --> Mensch emanzipiert sich von Religion und Glaube
+-   "[[9 Jahrhundertwende#Gott ist Tot und wir sind seine Mörder - 7 Nietzsche Nietzsche|Gott ist tot]]" --> Moral ist nicht länger aufrechterhaltbar --> Mensch emanzipiert sich von Religion und Glaube
 -   Kritik an der Religion
 
 ## Kulturpessimismus
