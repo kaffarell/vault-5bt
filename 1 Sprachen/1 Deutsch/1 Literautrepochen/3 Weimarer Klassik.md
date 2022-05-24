@@ -18,4 +18,4 @@
 #### Faust
 -   Nicht wirklich einer Epoche zuordbar - Aufklärung, Sturm und Drang, Weimarer Klassik und Romantik
 -   Doktor Faust und Mephistoteles, …
--   __Gelehrtentrgödie__ - Faust stößt als Gelehrter an seine Grenzen, frustriert ovn konservativen Einstellung
+-   __Gelehrtentrgödie__ - Faust stößt als Gelehrter an seine Grenzen, frustriert von konservativen Einstellung
