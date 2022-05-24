@@ -46,5 +46,5 @@
 - Frau erkrankt, Kind erkrankt
 - verliert seine Arbeit
 - aus der Wohunung geschmissen
-- Frau begeht Selbstmord, Kind stirbt oder getötet (woaß i nimmer)
-- erfriert zuletzt Draußen im Kalten
+- Kind wird von Niels erwürgt, weil es nicht aufhört zu weinen
+- erfriert zuletzt Draußen im Kalten während die Frau lungenkrank im Bett liegt
