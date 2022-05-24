@@ -38,13 +38,15 @@
 ## Bahnwärter Thiel
 - Mit Frau verheiratet nur wegen Sex --> __sexuelle Hörigkeit__
 - Frau zieht eigenes Kind vor, mishaldet jenes von Thiel
-- Thiels Kind stirbt bei einem Unfall mit einem Zug
-- Thiel ermordet seine Frau
+- Thiels Kind stirbt bei einem Unfall mit einem Zug -> weil seine Frau nicht auf ihm aufpasst
+- Thiel ermordet seine Frau und ihr Kind
+- Will suizid begehen -> liegt sich auf den Gleisen
+- Der Zug wird kurz davor gestoppt und er kommt in einer psychatrie
 
 ## Papa Hamlet
 - Niels Thienwiel
 - Frau erkrankt, Kind erkrankt
 - verliert seine Arbeit
 - aus der Wohunung geschmissen
-- Frau begeht Selbstmord, Kind stirbt oder getötet (woaß i nimmer)
-- erfriert zuletzt Draußen im Kalten
+- Kind wird von Niels erwürgt, weil es nicht aufhört zu weinen
+- erfriert zuletzt Draußen im Kalten während die Frau lungenkrank im Bett liegt
