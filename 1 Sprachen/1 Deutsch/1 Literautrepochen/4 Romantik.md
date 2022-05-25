@@ -10,7 +10,7 @@
 -   "blaue Blume" --> __Sehnsucht__
 -   Roman, Novelle, volksliedhafte Lyrik
 -   Schwarze Romantik - dunkle Seite des Menschen
--   Typisch = __romantische Ironie __
+-   Typisch = __romantische Ironie__
 	- weltfremde Wirklichkeitsflucht + kitschige Überemotionalität werden relativiert
 	- gefühlvolle Scheinwelt wird durch abrupten Stilbruch relativiert, neutralisiert, bzw. zerstört
 Ziel: Distanzierung, Entfremdung bzw. Relativierung der dichterischen Wahrheit

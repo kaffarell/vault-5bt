@@ -9,7 +9,7 @@
 	- Jugendstil
 	- Kaffeehausliteratur --> Kunst und Kultur blühten vor allem in Diskussionsrunden in Cafès auf
 	- Ästethizismus
-- Beeinflusst von Nietzsche
+- Beeinflusst von [[7 Nietzsche|Nietzsche]]
 
 ### Auf der Terrasse des Cafe Josty
 - Expressionismus --> negative Einstellung zur Industrialisierung

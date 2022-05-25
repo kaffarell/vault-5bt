@@ -1,5 +1,5 @@
 # Literatur im Dritten Reich
-Als die Nazis an die Macht kamen, liesen sie Landesweit Bücher verbrennen, welche "gegen den deutschen Geist" waren.
+Als die Nazis an die Macht kamen, liesen sie Landesweit Bücher verbrennen, welche gegen den deutschen Geist waren --> "wider dem undeutschen Geist "
 Marxistische, jüdische und pazifistische Schriften wurden verbrannt.
 Erich Kästner beschreibt die Erfahrung ein verbotener Schriftsteller zu sein so als wäre man ein wandelnder Leichnahm, da niemand ihn mehr kennte weil alle seine Bücher in Deutschland verboten waren.
 
