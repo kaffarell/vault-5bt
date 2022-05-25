@@ -15,7 +15,7 @@ Kant
 ## Empfindsamkeit
 Gefühle auch wichtig
 Verstand & Gefühle oft gegenübergestellt
-
+ 
 # Sturm & Drang
 Genie muss Individuell & Kreativ sein --> keinen allgemeinen Regeln unterworfen
 Lyrik über: Liebe, Natur & subjektive Erlebnisse
