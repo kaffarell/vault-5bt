@@ -1,0 +1,114 @@
+## Was ist Ökonomie? (Definition)
+Oikos --> Haus Nomos --> Lehre
+
+## Womit beschäftigt sich die Ökonomie ?
+- Was wird produziert
+- Wieviel wird produziert
+- Wie wird produziert
+- Wie wird es verteilt
+
+## Was ist die Definition von Wirtschaft?
+Wirtschaft ist das Zusammenspiel zwischen Arbeit, Kapital, Ressourcen, ... --> Netz aus Abhängigkeiten
+Ziel --> materielles Wohlbeffinden
+
+## Welche Arten von Markt gibt es?
+- Gütermarkt
+- Dienstleistungsmarkt
+- Kapitalmarkt
+- Arbeitsmarkt
+
+## Was ist der Unterschied zwischen Mikroökonomie und Makroökonomie?
+Die Mikroökonomie beobachtet und analysiert Märkte bzw. einzelne Wirtschaftssubjekte. z.B.: innerhalb eines Betriebes --> Angebot und Nachfrage
+Die Makroökonomie analysiert hingegen das Verhalten der gesamten MSektoren und Märkte. Hier werden zum Beispiel internationale Unterschiede --> BIP, Exporte und Importe eines Lands
+
+## Was ist das Marktgleichgewicht?
+Das Marktgleichgewicht ist dann erreicht, wenn die Nachfrage und das Angebot gleich groß sind
+
+## Was sind die Faktoren des Angebots bzw. der Nachfrage?
+__Angebot__
+- Produktionskosten
+- Technologische Entwicklung
+- Preis von korrelierenden Gütern (z.B.: Zuckerpreis steigt --> Cola wird teurer)
+- Regierungspolitik
+- Anzahl der Verkäufer
+- Anzahl der verschiedenen Marken
+- Zeit - Auto erst dann gekauft wenn begreift dass Benzinpreissteigerung langfristig ist
+- Erwartungshaltungen
+
+__Nachfrage__
+- die Menge des Gutes die verfügbar ist
+- persönliches Einkommen
+- persönlicher Geschmack
+- Preis von Ersatz(Substitutions)gütern oder Komplementärgütern
+- Werbung und Moden
+- Demografischer Wandel
+- BIP
+
+## Erkläre Angebot & Nachfragekurve
+Angebotskurve: 100 Stücke produzieren kostet mehr als 10 stücke produzieren --> Angebotskurve steigt
+Nachfragekurve: desto kleiner die Nachfrage, desto weniger kostet das Produkt
+Treffpunkt zwischen den zwei Kurven --> Marktgleichgewicht, Idealpreis
+
+## Was ist der vollkommene Markt? Was ist die Markttransparenz?
+Der vollkommene Markt ist wenn viele kleine rational handelnde Anbieter und Abnehmer handeln.
+Hier gibt es keine Großkonzerne wie Google usw. Es gibt auch keine Präferenzen von Seiten der Konsumenten
+Für den vollkommenen Markt braucht es die Markttransparenz. Jeder weiß über das Handeln des anderen bescheid
+
+## Welche Markstrukturen gibt es?
+- Monopol: Einer kontrolliert den Markt
+- Duopol: Zwei kontrollieren den Markt
+- Oligopol: Wenige kontrollieren den Markt
+- Polypol: Mehere kontrollieren den Makrt
+- Vollkommener Markt
+
+## Was sind Fixkosten, variable Kosten und Grenzkosten?
+- Fixkosten: alle Kosten die für die Produktion fix gebraucht werden - z.B.: Maschine
+- variable Kosten: Kosten die sich bei der Güterproduktion ändern - z.B.: Lohnkosten
+- Gesamkosten = Fixkosten + variable Kosten
+- Grenzkosten: Grenzkosten sind meistens gleich der variablen Kosten, erst bei einer erhöhten Produktion können sie sich ändern
+
+## Was ist ein Deckungsbeitrag? Es könnte ein Rechenbeispiel kommen
+- Deckungsbeitrag = Umsatz - Variable Kosten --> Betrag der übrig bleibt, um die Fixkosten zu decken
+
+## Was ist der Unterschied zwischen einem Gut und einer Dienstleistung?
+Güter sind materiell und können deswegen aufbewahrt werden, diese könne auch in andere Güter transformiert werden. 
+Dienstleistungen werden während des Produktionsprozesses konsumiert. Bei den Dienstleistungen kann der Klient transformiert werden
+
+## Was ist Produktion? Welche Faktoren gibts da drinnen?
+Bei der Produktion wird ein Gut oder eine Ressource in etwas mit höherem Wert verwandelt
+Faktoren:
+- Human Ressources
+- Maschinen
+- Know How
+- technologische Innovation
+- Forschung
+
+## Was ist ein Unternehmen? (Definition)
+Ein Unternehmen ist ein soziales, unspontanes & offenes System, das durch einen Input (Informationen, Rohstoffe, Kapital, ...) einen Output (Gut oder Dienstleistung) generiert
+
+## Was sind direkte und indirekte Kosten?
+- direkte Kosten: Kosten die man direkt etwas zuordnen kann - z.B.: Materialkosten für ein Produkt
+- indirekte Kosten: können keinem Produkt zugewiesne werden --> z.B.: Strom
+
+## Was ist Full Costing?
+Alle Kosten werden auf die Produkte aufgeteilt. Die indirekten Kosten werden meistens mit dem Durchschnittsprinzip verteilt.
+Der Nachteil darin liegt, dass es so nicht hundertprozentig der Realität entspricht
+
+## Was ist die Teilkostenrechnung-Direct Costing?
+Bei der Teilkostenrechnung werden die Kosten in Fixkosten (indirekte) und variable Kosten (direkte) aufgeteilt. Dabei werden die variablen Kosten __direkt__ auf das Produkt verrechnet. Die Fixkosten werden hingegen in Summe __indirekt__ in die Rechnung aufgenommen. So kann man zwar sehen wie gut ein Produkt im Vergleich zum Gesamtprofit performt, jedoch werden so z.B.: die Maschinenksoten nicht auf ein Produkt höher verrecchnet, wenn es definitiv mehr Maschinenkosten verursacht
+
+## Was ist eine Mission? Was ist ein Leitbild?
+Eine Mission ist eine mittel- bis langrfistige Zielsetzung
+Ein Leitbiild ist hingegen die Sammlung der Grundprinzipien einer Firma. Es beschriebt die Vision und Mission einer Firma. Das Leitbild wirkt nach innen motivierend und nach außen macht es deutlcih für was die Organisation steht
+Eine VIsion ist wie eine Firma sich vorstellt langfrisitg einen Platz auf dem Markt zu sichern
+
+## Was ist ein Budget?
+Es ist ein Plan von Einnahmen und Ausgaben für so ca. das kommende Jahr
+
+## Was ist der Break Even Point?
+Dieser Punkt gibt an, ab welcher produzierten Menge der Erlös die Gesamkosten übertrifft. Wo die Erlösfunktion die Kostenfunktion überholt --> Profit
+
+## Was versteht man unter einer a) funktionalen Organisation b) divisionaler Organisation c) Matrixorganisation?
+a) Unter einer funktionalen Organisation versteht man die Gliederung der Einheiten einenr Organisation nach Aufgaben. Das passiert jedoch nicht auf der Leitungsebene sondern auf der darunter
+b) Bei einer divisionalen Organisation wird nach Objektgesichtspunkten audgeteilt. Diese können Produkte, Kundengruppen oder Absatzgebiete sein
+c) Bei der Matrixorganisation haben die Angestellten der zweiten Hierarchieebene immer 2 Vorgesetzte die voneinander unabhängig sind. Eine Matrixorganisation ist damit eine Form der Mehrlinienorganisation
