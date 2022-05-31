@@ -21,7 +21,7 @@
 - Heydrich
 	- Mit Judenfrage beauftragt
 	- Hauptverantwortlicher des Holocaust
-	- Befahlt Juden-Ghettos
+	- Befehlt Juden-Ghettos
 
 1942:
 - Wannsee-Konferenz

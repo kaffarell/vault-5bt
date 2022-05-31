@@ -128,7 +128,7 @@ Folgen der Inflation:
   
   
 
-Währungsreform (Anna)
+## Währungsreform (Anna)
 
 -   Mit Errichtung einer Deutschen Rentenbank leitete die Reichsregierung Mitte Oktober 1923 die Rückkehr zu einer stabilen Währung ein
     
@@ -145,8 +145,6 @@ Währungsreform (Anna)
 -   Rentenmark war nur Übergangslösung, um die Inflation zu überwinden
     
 -   Wurde 1924 von der Reichsmark abgelöst
-    
--     
     
 
 ## Dolchstoßlegende (Tobi)
