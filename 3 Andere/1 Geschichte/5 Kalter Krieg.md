@@ -16,6 +16,12 @@
 In **Jalta** wurde besprochen, dass man wollte, dass Stalin in Berlin einmarschiert und den Krieg beendet, dieser stellte die Forderung, dass die USA im Westen einmarschieren --> Resultierte in D-Day
 
 In **Potsdam** (bei Deutschland) wurde beschlossen DE in FR, GBT, USA & RS Zone zu teilen. FR, GBT & USA Zonen wurden zusammengefasst und es wurde nur in 2 Besatzungszonen geteilt (Berlin auch). Weiters wurde besprochen JP zum Kapitulieren zu bringen (--> Atombombe)
+Beschlüsse:
+- Demilitarisierung
+- Dezentralisierung
+- Denazifizierung (NS Struktur muss zerstört werden) (Kriegsverbrecher)
+- Demokratie
+- Vertreibung aus Ostgebieten
 
 ## Kalter Krieg
 ![DeNachWW2|500](https://www.hdg.de/lemo/img_hd/bestand/objekte/nachkriegsjahre/besatzungszonen_karte_1987-03-061.jpg)
