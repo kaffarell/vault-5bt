@@ -29,7 +29,7 @@ Nach WW2 standen sich **Osten** und **Westen** **misstrauisch** **gegenüber**. 
 
 1949 wurde **NATO** (North Atlantic Treaty Organisation) mit USA, Kanada & europäischen Staaten gegründet um sich gegenseitig gegen die UdSSR beizustehen.
 
-1955 ragierte die UdSSR mit dem **Warschauer Pakt**
+1955 reagierte die UdSSR mit dem **Warschauer Pakt**
 Nach Stalin war Chrustschow mit dem Ziel dass Kapitalisten und Kommunisten friedlich zusammen lebten wurde jedoch abgesetzt weil seine Wirtschaftspolitik fehl schlug.
 
 ## Stalinnote
@@ -39,7 +39,7 @@ Nach Stalin war Chrustschow mit dem Ziel dass Kapitalisten und Kommunisten fried
 - WW2 **Korea JP Kolonie** --> Nach WW2 am 38. Breitengrad (**Demarkationslinie**) aufgeteilt
 - Man **versuchte** es zu **vereinen**
 - Einigung gelingt nicht --> Norden von Osten unterstützt, Süden von Westen
-- 1950 Nordkoreanische Truppen greifen Soul an (**Ganz Korea gehört Norden**)
+- 1950 Nordkoreanische Truppen greifen Seoul an (**Ganz Korea gehört Norden**)
 - Südkorea fast verloren --> **USA greift ein** (**Ganz Korea gehört Süden**)
 - USA schlägt Nord-Korea zurück und **China greift** auch **ein** (**Korea wieder geteilt**)
 - **1953** kommt es zu **Waffenstillstand** (bis heute) --> Es gab immer noch keine Friedensverhandlungen
@@ -54,7 +54,7 @@ Nach Stalin war Chrustschow mit dem Ziel dass Kapitalisten und Kommunisten fried
 	- Im Süden Anitkommunisten
 - Wegen kommunistischen Spionen im Süden (Vietkong) hatte **USA** **angst**, dass Süden auch kommunistisch wird --> **Kommunismus breitet sich auf Nachbarländer aus**
 - USA greift nun selber ein (mit Gewalt)
-- Vietkong kämpft mit Guerilla-Taktiken --> **USA** **verliert** trotz militärischem Vortschirtt (Napalm & Agent Orange) und Überzahl
+- Vietkong kämpft mit Guerilla-Taktiken --> **USA** **verliert** trotz militärischem Vortschritt (Napalm & Agent Orange) und Überzahl
 - USA zieht sich wegen Protesten aus dem Heimatland zurück
 - 1973 Waffenstillstand & Friedensverhandlungen in Paris
 - Norden- & Süden --> Bürgerkrieg
