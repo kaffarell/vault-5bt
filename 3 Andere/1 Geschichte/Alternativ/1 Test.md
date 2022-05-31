@@ -41,11 +41,11 @@
 ### Materialschlacht
 -   Erstmals in 1. Weltkrieg
 -   Dauerte lange - brachte für keinen große Vorteile
--   Trommelfeuer --> Atillerie spammen - Gegner in den Wahnsinn treiben
+-   Trommelfeuer --> Artillerie spammen - Gegner in den Wahnsinn treiben
 
 ### Technik
 -   Massentötungen und anonymisierter Tod durch neue Waffen und Technologien
--   Giftgas, MG, U-Boote Luftschiffe, Luftkämpfe, Flammenwrfer
+-   Giftgas, MG, U-Boote Luftschiffe, Luftkämpfe, Flammenwerfer
 
 ### Krieg im Osten
 -   Hauptschauplatz gegen Russland
@@ -61,7 +61,7 @@
 -   __Dolchstoßlegende__ - Dolchstoß von hinten - Niederlage von Deutschland wegen Juden Sozialdemokratie usw. - Legende verbeitet von Oberste Heeresleitung ^277eb6
 
 ### Heimatfront
--   Zwar weg von Front aber einbezogen in Pflegen von Verletzten und Produktion von Kriegsgütern
+-   Bevölkerung zwar weit weg von Front, aber einbezogen in Pflegen von Verletzten und Produktion von Kriegsgütern
 -   Hunger und Armut, Geld in Kriegsanleihen an Staat vergeben
 
 ### USA - Kriegseintritt
@@ -122,7 +122,7 @@
 #### Die roten Jahre
 -   Krieg war die Ursache von sozialer Not
 -   Sozialistische Partei hatte Krieg abgelehnt --> bei Wahlen 1919 Mehrheit
--   Sozialistishe Partei konnte auch nicht arbeitlosigkeit auflösen --> die Leuten wollte eine Partei die sie schützte
+-   Sozialistische Partei konnte auch nicht arbeitslosigkeit auflösen --> die Leuten wollte eine Partei die sie schützte
 
 #### Benito Mussolini  und die Gründung der faschistischen Partei
 -   Radiakler Sozialist - zuerst gegen Krieg dann dafür
@@ -145,7 +145,7 @@
 
 ## Lenin, Stalin und Russland
 ### Die Russischen Revolutionen erklärt (Wissen2go Video)
-### Ursachen#
+### Ursachen
 -   Tiefgreifende Strukturprobleme
 -   Wirtschafltich zurückgebildet - nur Bauern
 -   Russische Industrie - schlechte Umstände
@@ -160,12 +160,12 @@
 #### Zweite Revolution 1917 - Februarrevolution
 -   Proteste weil Hunger und Krieg zu lange dauert
 -   Wachen des Zars schließen sich an und Zar dankt ab
--   Lenin kommt zu den Vorschein
-	-   Kommt zu den marxxschen Thesen
+-   Lenin kommt zum Vorschein
+	-   Kommt zu den marx'schen Thesen
 	-   Wird Führer der Bolschewiki - der Arbeiter
 	-   Geht gegen die provisorische Regierung
 
-#### Dritte Revolution 1917 - Oktoberrevolution  --> Bolschweiki werden die Machthaber
+#### Dritte Revolution 1917 - Oktoberrevolution  --> Bolschewiki werden die Machthaber
 -   Ausstieg aus dem Krieg
 -   Bürgerkrieg --> Bolschewiki gewinnen 1921
 
@@ -177,10 +177,10 @@ Communis - gemeinsam -> Idealgesellschaft
 -   Lenin will nicht warten dass der kommunismus natürlicherweise entsteht
 -   Laut Marx zuerst Kapitalismus und dann erst Sozialismus aber Umstimmung ob überspringen --> Bolschewiki
 -   Lenin muss mit Gewalt Sozialismus durchsetzen --> Stalin Höhepunkt
--   [[8.4 Materialistische Geschichtsauffassung]]
+-   [[8.4 Materialistische Geschichtsauffassung|Materialistische Geschichtsauffassung]]
 -   **Bolschewismus** - radikale Weiterentwicklung der Ideeen vom Marxismus
 -   Menschewiki - Minderheit
--   Leninismus - sind die Ansichten von Lenin, sie sinf weiterntwicklete Ideen die aus dem Marxismus abstammen
+-   Leninismus - sind die Ansichten von Lenin, sie sind weiterentwickelte Ideen die aus dem Marxismus abstammen
 
 ### Ökonomische Politik
 Ökonomische Politik - Boden ist Staatseigentum, privater Handel ist erlaubt
@@ -190,13 +190,13 @@ Communis - gemeinsam -> Idealgesellschaft
 
 #### Stalin - "der große Umbruch"
 -   Setzte sich gegen Trotzki durch
--   Wollte schnell den Sozialismus ausbauen - wollte nicht warten dass von allein geht wie nach [[8.4 Materialistische Geschichtsauffassung]]
+-   Wollte schnell den Sozialismus ausbauen - wollte nicht warten dass von allein geht wie nach [[8.4 Materialistische Geschichtsauffassung|Materialistische Geschichtsauffassung]]
 -   Fünf Jahres Plan - Industrialisierung
 -   Kollektivierung - Überführung privater Produktionsmittel in Gemeinwirtschaften
 -   Industrie verbesserte sich um 6505, Bevölkerungswachstum, …
 -   Gewaltherrschaft - Säuberungen - Eliminierung der Gegner
 -   Kulaken - reiche Bauern, auch ausgeschaltet
--   Arme Bauern musten den Kolchosen beitreten
+-   Arme Bauern mussten den Kolchosen beitreten
 -   Auch den Arbeitern ging es nicht so gut
 -   Zwangsarbeiter - kamen in Gulags und waren die die deportiert wurden -  leisteten sehr viel
 
@@ -212,7 +212,7 @@ Communis - gemeinsam -> Idealgesellschaft
 -   Erfüllungspolitik - das beste geben um die Reparationszahlungen zu leisten
 -   Putschversuche von rechts - Kapp-Lüttwitz-Putsch, Hitlerputsch
 -   Arbeiteraufstände von links - Spartakusaufstand
--   Ruhrkampf - Besetzung Ruhrgebiet weil Reparationszahlungen nicht
+-   Ruhrkampf - Besetzung Ruhrgebiet weil Reparationszahlungen nicht gezahlt wurden
 -   Infaltion - Grund für Währungsreform --> Rentenmark
 -   [[1 Test#^277eb6|Dolchstoßlegende]]
 
