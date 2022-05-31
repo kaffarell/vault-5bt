@@ -7,5 +7,5 @@ Nach WW1 unabhängig --> 1922 kommt es zur Sowjet Union
 1954 bekommt UKR die Krim als "Geschenk"
 1991 wird UKR unabhängig
 	Östliche & Westliche Politiker wollen Einfluss
-2014 RS annektiert Krim
+2014 RS annektiert Krim -> wird aber nicht anerkannt
 2022 RS greift UKR an
