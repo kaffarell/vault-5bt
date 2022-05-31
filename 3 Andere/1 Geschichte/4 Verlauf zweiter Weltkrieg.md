@@ -1,4 +1,7 @@
-## Verlauf WW2
+### Verlauf WW2
+```toc
+```
+
 ### Deutschland
 #### Juden & KZs
 1933:
@@ -84,7 +87,7 @@
 	- Lidice --> Heydric --> Brief --> Leaky
 
 #### Technologien der Deutschen im Zweiten Weltkrieg
-##### Bollwerk
+**Bollwerk**
 - Festungskette von Spanien bis Norwegen am Atlantik
 - viel zu teuer --> Beton Stahl
 - D-Day alles auf einem kleinen Punkt konzentriert --> sinnlos
@@ -105,7 +108,7 @@
 	- Plutonium umgeben von TNT --> Plutonium kompriemiert
 	- Nagasaki
 
-## Mussolini
+### Mussolini
 - Mussolini wurde von Carabinieri festgehalten
 	- Otto Skorzeny --> Friedenthal --> Unternehmen Eiche
 - Hitler wollte Mussolini gewaltsam an die Macht bringen aber hatte nicht genug Truppen in IT
@@ -117,7 +120,7 @@
 		- Für DE kämpfen oder Kreigsgefangene bleiben
 		- Wurden von Zivilbevölkerung geächtet und nicht kompensiert
 
-## Kontrafaktische Geschichte
+### Kontrafaktische Geschichte
 #### Wie Krieg gewinnen?
 - Dünkirch gewinnen
 - Barbarosse nicht durch IT verzögert
