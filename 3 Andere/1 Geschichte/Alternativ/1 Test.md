@@ -213,7 +213,7 @@ Communis - gemeinsam -> Idealgesellschaft
 -   Putschversuche von rechts - Kapp-Lüttwitz-Putsch, Hitlerputsch
 -   Arbeiteraufstände von links - Spartakusaufstand
 -   Ruhrkampf - Besetzung Ruhrgebiet weil Reparationszahlungen nicht gezahlt wurden
--   Infaltion - Grund für Währungsreform --> Rentenmark
+-   Inflation - Grund für Währungsreform --> Rentenmark
 -   [[1 Test#^277eb6|Dolchstoßlegende]]
 
 #### Die Jahre der Stabilsierung 1923-1928
@@ -221,10 +221,10 @@ Communis - gemeinsam -> Idealgesellschaft
 -   Gestärkte Wirtschaft durch Kredite der USA
 -   Dawes und Youngplan
 -   Revision des Versailler Vertrags
--   Versöhnungspolitik
+-   Versöhnungspolitik (Appeasement-Politik)
 
 #### Die Jahre des Niedergangs und der Auflösung 1929-1933
--   Welwirtschaftskrise
+-   Weltwirtschaftskrise
 -   Keine Koalition mehr
 -   Kein Vertrauen in Regierung
 -   NSDAP mit Hitler nutzt das aus
