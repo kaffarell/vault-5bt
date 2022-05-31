@@ -49,12 +49,12 @@
 
 ### Olympische Spiele in Berlin 1936
 -   Propagandamittel für Deutschland
--   Wurde schon 1931 gfestgelegt
+-   Wurde schon 1931 festgelegt
 -   Boykotte von USA usw. wegen Juden aber Deutschland hat Ausnahme gemacht
 
 ### Spanischer Bürgerkrieg
 -   1936-1939 Putschversuch der Republikaner
--   Von DE und ITA unterszützt
+-   Von DE und ITA unterstützt
 -   Andere Seite von Russland, Frau
 -   Testen der Militärtaktiken usw.
 
@@ -68,7 +68,7 @@ Geheimes Protokoll einer Sitzung 1937 wo Hitler seine Expansionsideen vorstellt
 -   Die Anwesenden widersprechen Hitler
 
 ### Anschluss Österreichs 1938
--   Hitler stellte Ultimatum zum Einmarsch in Österrecih an --> Österreich nahm an
+-   Hitler stellte Ultimatum zum Einmarsch in Österreich an --> Österreich nahm an
     --> Judenverfolgung
 
 ### Die Zerschlagung der Tschechoslowakei
@@ -89,4 +89,4 @@ Geheimes Protokoll einer Sitzung 1937 wo Hitler seine Expansionsideen vorstellt
 -   nichtangriffspakt
 -   Neutralität ei krigen
 -   Vertrag dann auch gebrochen
--   Grundlegend für angriff auf Polen weil udSSR dann auch wirklich nicht angriff
+-   Grundlegend für angriff auf Polen weil UdSSR dann auch wirklich nicht angriff
