@@ -55,10 +55,10 @@
   
 #### Widerstand
 - __Militär__
-	- Seit Vernichtungskrieg gegen die Sowejtunion Widerstand von Militär
-	- Stuafenberg --> Besprechung Führer Hauptquartier -->  Walküre --> Bombe unter Tisch
+	- Seit Vernichtungskrieg gegen die Sowjetunion Widerstand vom Militär
+	- Staufenberg --> Besprechung Führer Hauptquartier -->  Operation Walküre --> Bombe unter Tisch
 - __Kirche__
-	- Mischte sich erst ein, als Patienten in Heilanstalten ermordet wurden
+	- Mischte sich erst ein, als Patienten in Heilanstalten/Behinderte ermordet wurden
 - __Rote Kapelle__
 	- Harro Schulze & Harnack
 		- Verbreiteten Flugblätter
@@ -75,7 +75,7 @@
 	- Gegen Hitler, Goebbels, Himmler
 - __Sophie Scholl__
 	- Jugendalter, Freund war Soldat
-	- Sie und Bruder Hans teten der weißen Rose bei
+	- Sie und Bruder Hans treten der weißen Rose bei
 	- Verteilen Flugblätter
 
 #### Justiz, Gestapo & SS - Himmler
@@ -95,7 +95,7 @@
 #### Hightech der Alliierten
 ##### Operation Overloard
 - Landung in der Normandie 6. Juni 1944 --> D-Day
-- Beffreiung Paris
+- Befreiung Paris
 
 ##### Manhattan Projekt
 - dachten deutsche Atombombe fast fertig
@@ -105,17 +105,17 @@
 	- zwei Uran-Elemente kollidiert
 	- Hiroshima
 - Fat Man
-	- Plutonium umgeben von TNT --> Plutonium kompriemiert
+	- Plutonium umgeben von TNT --> Plutonium komprimiert
 	- Nagasaki
 
 ### Mussolini
 - Mussolini wurde von Carabinieri festgehalten
-	- Otto Skorzeny --> Friedenthal --> Unternehmen Eiche
+	- Befreiung: Otto Skorzeny --> Friedenthal --> Unternehmen Eiche
 - Hitler wollte Mussolini gewaltsam an die Macht bringen aber hatte nicht genug Truppen in IT
 - Achsen regieren Nord- & Mittel IT
 - Hitler instituiert Republik Salò (RSI)
 	- Mussolini nur noch ein Schatten seiner selbst
-	- Italienische Kriegsgefangene nur mehr IMI
+	- Italienische Kriegsgefangene -> IMI (Italienische Militärinternierte)
 		- Mannschaftslager (Stalag) oder Offlag
 		- Für DE kämpfen oder Kreigsgefangene bleiben
 		- Wurden von Zivilbevölkerung geächtet und nicht kompensiert
@@ -123,7 +123,7 @@
 ### Kontrafaktische Geschichte
 #### Wie Krieg gewinnen?
 - Dünkirch gewinnen
-- Barbarosse nicht durch IT verzögert
+- Barbarossa nicht durch IT verzögert
 - JP nicht Pearl Harbor angegriffen sondern gemeinsam UdSSR
 - Afrika für Ressource eingenommen
 - JP & DE gemeinsamer Angriff USA
@@ -132,8 +132,8 @@
 - Hitler Ruhestand
 - Hans Rudel oder Reinhard Heydrich wäre Nachfolger
 - Holocaust wäre global geworden
-- Wirtschaftskriese wegen Umstellung von Kriegs- auf Nachhaltige Industrie
-- Unternehmen von SS kontrolliert (keine Freie Marktwirtschaft)
+- Wirtschaftskrise wegen Umstellung von Kriegs- auf Nachhaltige Industrie
+- Unternehmen von SS kontrolliert (keine freie Marktwirtschaft)
 - DE wäre nach ca. 60-70 Jahren gefallen
 
 #### Hitler früher tot
