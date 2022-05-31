@@ -10,14 +10,15 @@
 - 1989 Fall der Berliner Mauer
 
 ## Von Jalta nach Potsdam
-ZEICHNUNG ROOSEVELT STALIN CHURCHILL
+![StalinChurchillRoosevelt|500](https://cdn.discordapp.com/attachments/613625981219110914/981211473722347570/unknown.png)
+
 
 In **Jalta** wurde besprochen, dass man wollte, dass Stalin in Berlin einmarschiert und den Krieg beendet, dieser stellte die Forderung, dass die USA im Westen einmarschieren --> Resultierte in D-Day
 
 In **Potsdam** (bei Deutschland) wurde beschlossen DE in FR, GBT, USA & RS Zone zu teilen. FR, GBT & USA Zonen wurden zusammengefasst und es wurde nur in 2 Besatzungszonen geteilt (Berlin auch). Weiters wurde besprochen JP zum Kapitulieren zu bringen (--> Atombombe)
 
 ## Kalter Krieg
-**KARTE VON DE NACH WW2 EINFÜGEN**
+![DeNachWW2|500](https://www.hdg.de/lemo/img_hd/bestand/objekte/nachkriegsjahre/besatzungszonen_karte_1987-03-061.jpg)
 Nach WW2 standen sich **Osten** und **Westen** **misstrauisch** **gegenüber**. Der Osten hatte angst, da der Westen den Komunissmus eindämmen wollte und der Westen hatt angst, dass der Osten seine macht ausbreiten wolle. Es kam zu einem Wettrüsten.
 
 1949 wurde **NATO** (North Atlantic Treaty Organisation) mit USA, Kanada & europäischen Staaten gegründet um sich gegenseitig gegen die UdSSR beizustehen.
@@ -52,6 +53,10 @@ Nach Stalin war Chrustschow mit dem Ziel dass Kapitalisten und Kommunisten fried
 - 1973 Waffenstillstand & Friedensverhandlungen in Paris
 - Norden- & Süden --> Bürgerkrieg
 - **Südvietnam verliert** --> Sozialistische Republik
+  
+###### Karte
+![Karte|200](https://i.pinimg.com/474x/57/04/29/570429a229a1dd739a4d3c03b3bb3217--north-vietnam-vietnam-map.jpg)
+
 
 ## Berliner Mauer
 **Nach Zusammenschluss** der 3 **Allierten Besatzungszonen** in DE wurde eine Währungsreform eingeführt um die drohende zusammenbrechende Wirtschaft zu bekämpfen. Nur so konnte die USA mit hilfe des Marschall Plans helfen.

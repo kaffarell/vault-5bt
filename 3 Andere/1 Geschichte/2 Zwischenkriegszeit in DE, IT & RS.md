@@ -50,7 +50,7 @@ Verbat Oppositionsparteien --> Gewaltherrschaft --> Immer mehr Einschränkungen
 - **Bolschewiki** erklären sich als **Machthaber** --> Nehmen Sitz der Parlamentarischen Demokratie ein
 - 1922 Grüundung Sowjet Union
 - Lenin wollte Kommunismus --> Laut Marx müssen folgende Stufen durchlaufen werden
-**BILD HIER EINFÜGEN**
+![StufenZumSozialismus|300](https://slideplayer.org/slide/209609/1/images/6/Stufen+der+menschlichen+Gesellschaft+nach+Marx.jpg)
 - Lenin wollte jedoch den Kapitalismus komplett überspringen und direkt zum Sozialismus
 - Lenin --> Gemischtes Wirtschaftssystem --> Boden gehört Staat --> Privathandel bleibt erhalten
 
