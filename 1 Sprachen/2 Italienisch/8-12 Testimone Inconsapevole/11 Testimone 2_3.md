@@ -3,7 +3,7 @@ Guerrieri, perchè non è capace di dormire, si svelga sempre presto la mattina 
 Cervellati è convinto che Guerrieri e Abdou vogliono il processo abbreviato.
 __Vantaggi giustizio abbreviato:__
 - costa meno (per stato e accusato)
-- se condannto, la punizione non è cosi grave
+- Probabilmente condannato, la punizione non è cosi grave
 - dura meno tempo
 __Svantaggi:__
 - meno possibiltà di difendersi
