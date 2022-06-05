@@ -12,7 +12,7 @@
 
 ## Riassunto - Il verde mattino
 - colonizzazione di Marte è agli inizi
-- paesaggio inospitabile --> medico dice al protgonista, Benjamin Driscoll, a tornare sulla terra perché ha difficoltá a respirare e non sono molti alberi sul marte
+- paesaggio inospitabile --> medico dice al protgonista, **Benjamin Driscoll**, a tornare sulla terra perché ha difficoltá a respirare e non sono molti alberi sul marte
 - Driscoll vuole rimanere sul marte e pensa che potrebbe rimanere li se pioverebbe perchè poi gli alberi creserebbero
 - Qualla notte piove e gli alberi crescono e lui puo rimanere sul marte
 

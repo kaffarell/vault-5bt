@@ -10,4 +10,4 @@ Nel frattempo la signora Cassana aspettava. Era arrabbiata. Il giorno dopo perse
 2. cagionato la morte - atti di violenza e soffocazione
 3. occultato (=verborgen) il cadavere e buttato in un pozzo
 
-![Testimone 2_1|2000](https://cdn.discordapp.com/attachments/818403821599457280/978327803810447421/testimone_2_1.png)
+![Testimone 2_1|800](https://cdn.discordapp.com/attachments/818403821599457280/978327803810447421/testimone_2_1.png)
