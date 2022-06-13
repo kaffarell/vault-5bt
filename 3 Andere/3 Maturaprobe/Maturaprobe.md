@@ -40,6 +40,4 @@ Mitschrift Daniel:
 - aspekte für verschlüssselung
 	- modulo
 	- hohe primzahlen
-- er diagramm theorie (Schema, Relation, Schlüsselkanidaten (Superschlüssel))
-- schwul 
-- 
+- ER diagramm theorie (Schema, Relation, Schlüsselkanidaten (Superschlüssel))
