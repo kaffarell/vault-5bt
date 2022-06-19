@@ -80,7 +80,7 @@ Anschließend wurde bei der Toolbox unter /var/www/html die index.html bearbeite
 
 
 
-Es wurde ein UbuntuDocker als Gerät bei GNS3 installiert.
+Es wurde ein UbuntuDocker ([[1 Docker|Docker]]) als Gerät bei GNS3 installiert.
 Der zweck dessen war, um dieses als ssh-Verbindung zu nutzen, jedoch musste dadurch erst eine Verbindung ins Internet hergestellt werden um um das ssh package zu installieren.
 
 
