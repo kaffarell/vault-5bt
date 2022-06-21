@@ -146,7 +146,7 @@ Optional. Gibt an was mit dem Child passieren soll, wenn der Parent geupdatet wi
   
 
 #### NO ACTION 
-(Ist die default EInstellung, also auch wenn man es nicht schreibt)
+(Ist die default Einstellung, also auch wenn man es nicht schreibt)
 
 Wir zusammen mit ON DELETE oder ON UPDATE benutzt. Wenn versucht wird den Parent zu updaten oder zu löschen, dann funktioniert es nicht und es kommt ein Fehler. Parent und Child bleiben gleich. Ist nützlich als Sicherheit bei sehr wichtigen Datenbanken z.B. Bank und Bankkontos.
 

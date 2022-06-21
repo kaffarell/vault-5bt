@@ -2,14 +2,14 @@ M/n tabelle
 Wenn 2 mal vorkommt n bzw m
 Existenzabhängigkeit
 Wenn bei box schema unterstrichen = primary key von schwacher entitätstyp
-Bei Box schema keine fremschlüssel
+Bei Box schema keine fremdschlüssel
 Auf redundanzen denken
 Wenn mehrere attribute, doppeloval
 Wenn man wörter nicht findet versuchen durch direkte Beziehung abzukürzen
 Vertikale partitionierung
 
 Info:
-Normalform
+[[5 Theorie#Normalformen|Normalformen]]
 Synthesealgorithmus
 B-Bäume
 Mysql Abfragen
