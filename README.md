@@ -1,11 +1,9 @@
 ## Plugins needed:
-
 * obsidian-admonition
 * nomnoml
 * obsidian-git
 * table-editor-obsidian
 * Dynamic Table of Contents
-
 
 Enable them under the "community plugins" options.
 
