@@ -15,3 +15,17 @@
 		* Blockiere alle http Anfragen vom Webserver zur www.fallmerayer.it Seite.
 		* Blockiere für den Webserver die https://www.google.de Seite.
 		
+		
+		
+## Arten von Firewalls
+
+* STATEFUL FIREWALL 
+	* Wenn etwas rein geht gehts auch wieder raus
+	* Das ganze paket mit inhalt wird angeschaut
+	* Speicher gute und schlechte verbindungen (damit in der zukunft zurückgeschaut werden kann)
+* STATELESS FIREWALL:
+	* Pakete gehen rein aber gehen nicht wieder raus
+	* Nur statische informationen wie source und destination werden angeschaut
+	* Speichert keine connections und informationen
+	
+Normalerweise sind alle firewalls Stateful

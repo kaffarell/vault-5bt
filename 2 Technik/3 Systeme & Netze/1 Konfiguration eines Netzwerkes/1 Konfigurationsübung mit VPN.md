@@ -2,7 +2,7 @@
 
 Wobei $R_4$ Router **7200** ist.
 Die Toolbox agiert wie ein Webserver.
-Ziel ist es, dass unser PC mittels eines VPNs den Webserver einer anderen Gruppe erreichen kann.
+Ziel ist es, dass unser PC mittels eines [[8 VPN|VPNs]] den Webserver einer anderen Gruppe erreichen kann.
 
 Zuerst muss $R_4$ auf $f2/0$ mit **DHCP** IP erhalten
 ```ad-info
@@ -46,7 +46,7 @@ access-list 1 permit <abbr title="Lokales Netzwerk">192.168.X.0</abbr> <abbr tit
 ip nat inside source list 1 int <abbr title="Äußerer Port">f2/0</abbr> overload
 ```
 
-Um den VPN einzurichten muss beim Router $R_4$ folgendes vorgenommen werden
+Um den [[8 VPN|VPN]] einzurichten muss beim Router $R_4$ folgendes vorgenommen werden
 ```ad-info
 crypto ipsec transform-set TRANS-ESP esp-3des esp-sha-hmac
 crypto map CRYPTO_MAP 10 ipsec-isakmp
@@ -91,7 +91,7 @@ Router 7200 mit PC und Cloud verbinden
 Ziel: PC1 ins SN-Lab Netzwerk kommen
 
 Anfangs Ports zu Router hinzufügen
-Danach DHCP Server bei Router für privates Netzwerk konfigurieren
+Danach [[6 DHCP|DHCP]] Server bei Router für privates Netzwerk konfigurieren
 ```ad-info
 ip dhcp excluded-address 192.168.X.1 192.168.X.100
 ip dhcp pool snlabX
@@ -106,7 +106,7 @@ no sh
 
 Adressen von 0.1 bis 0.100 sind ausgeschlossen weil diese sonst verwendet werden
 
-DHCP pool definiert das Netzwerk, für welches IPs vergeben werden sollen.
+[[6 DHCP|DHCP]] pool definiert das Netzwerk, für welches IPs vergeben werden sollen.
 
 Bei PC1
 ```ad-info
@@ -170,8 +170,8 @@ ssl_certificate /etc/nginx/certificate/certificate.crt
 ssl_certificate_key /etc/nginx/certificate/nginx.key
 ```
 
-IP-Sec ist eine Verbindung zwischen 2 Privaten Netzwerken über ein Öffentliches Netzwerk
-IP-Sec für VPN einrichten:
+[[9 IPSec|IP-Sec]] ist eine Verbindung zwischen 2 Privaten Netzwerken über ein Öffentliches Netzwerk
+[[9 IPSec|IP-Sec]] für VPN einrichten:
 Als erstes muss Crypto erstellt werden
 Welcher Hash algorithmus & Gruppe verwendet wird muss bei beiden gleich sein.
 Erster Kanal um Infos über Tunnelaufbau auszutauschen (unverschlüsselt) (isakmp)
