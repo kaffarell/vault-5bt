@@ -27,5 +27,5 @@ Der erste Port und IP muss mittels der Konsole konfiguriert werden. Alle folgend
 - User: Admin
 - Password: pfsense
 
-MATURAFRAGE:
-VERSCHIEDENE ARTEN VON [[4 Firewall]]
+### MATURAFRAGE:
+VERSCHIEDENE ARTEN VON [[4 Firewall|FIREWALLS]] : [[4 Firewall#Arten von Firewalls]]
