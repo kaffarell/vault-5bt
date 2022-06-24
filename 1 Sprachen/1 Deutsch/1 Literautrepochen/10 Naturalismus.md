@@ -37,7 +37,7 @@
 
 ## Bahnwärter Thiel
 - Mit Frau verheiratet nur wegen Sex --> __sexuelle Hörigkeit__
-- Frau zieht eigenes Kind vor, mishaldet jenes von Thiel
+- Frau zieht eigenes Kind vor, mishandelt jenes von Thiel
 - Thiels Kind stirbt bei einem Unfall mit einem Zug -> weil seine Frau nicht auf ihm aufpasst
 - Thiel ermordet seine Frau und ihr Kind
 - Will suizid begehen -> liegt sich auf den Gleisen
