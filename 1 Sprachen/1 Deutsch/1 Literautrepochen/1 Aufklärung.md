@@ -4,7 +4,7 @@
 -   Neues Wissen akzeptieren
 -   Aufteilung in Frühaufklärung, Aufklärung, Spätaufklärung
 -   Licht als Symbol der Aufklärung
--   Wichtigster Grunsatz der Aufklärung - Die Vernunft ist im Stande die Wahrheit ans lIcht zu bringen
+-   Wichtigster Grundsatz der Aufklärung - Die Vernunft ist im Stande die Wahrheit ans lIcht zu bringen
 
 ## Merkmale
 -   Auf allen Gebieten Denkbewegungen
