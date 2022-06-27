@@ -1,3 +1,4 @@
+# Android
 ## Klasse R
 - R steht für Ressourcen
 - Statische Klasse die zur kompilierzeit erstellt wird
@@ -26,3 +27,12 @@
 ## Broadcast Receiver
 - Reagieren auf systemweite nachrichten
 - Zum beispiel reagiert ein broadcast receiver auf der nachricht "Batteriestand ist niedrich"
+
+# Nicht Native Apps
+- Beispiele:
+	- Flutter
+	- React Native
+	- Native Script
+	- Ionic
+	
+- Mann programmiert mit Javascript (oder bei Flutter mit Dart), HTML und CSS. Man kann so schneller User-Interfaces erstellen, wie bei Webseiten(Mann kann auch code einer webapp wiederverwenden für einer app). Nachteil ist dass diese Apps meistents längsamer laufen und auch nur begrenzt auf nativen ressourcen zugreifen können (Kamera, Sensoren, etc).
