@@ -22,6 +22,8 @@
 	The US initially supported the Taliban because the people who are today part of the taliban were part of the Mujaheddin during the Soviet-Afghan War.
 - **Why did the American operation in Afghanistan fail and why did they retreat?**
 	The American operation in Afghanistan failed, because they weren't able to establish a strong enough government and military in Afghanistan. Therefore the Taliban were able to take over Afghanistan as soon as the US left. The US ceased operations in Afghanistan, because the afghans slowly felt annoyed of the US doing what they want. The US also saw that after 20 years they weren't able to change much. Therefore they shifted their m military focus to China and Russia 
+
+
 - die russen hobn die afghanische regierung gstürzt und a kommunistische regierung eingsetzt
 - die amerikaner hobn gewellt die ausbreitung von kommunismus verhindern und hobn desholb die mujahideen mit woffen ausgstottet und sie ausgebildet
 - die sel hobn donn die kommunistische regierung gstürtzt und die macht an sich genummen
