@@ -1,7 +1,7 @@
 # RSA
 
 Der RSA Algorithmus wird verwendet um privaten und öffentlichen Schlüssel für die asymmetrische Verschlüsselung zu erstellen.
-Die Sicherheit des RSA beruht auf dem modulo Operator und auf dem Faktorisierungsproblem, das bedeutet, dass es unmöglich ist, die Faktoren einer sehr großen Zahl zu finden, wenn diese große Primzahlen sind.
+Die Sicherheit des RSA beruht auf dem modulo Operator und auf dem Faktorisierungsproblem, das bedeutet, dass es unmöglich ist, die Faktoren einer sehr großen Zahl zu finden, wenn die beiden Faktoren große Primzahlen sind.
 
 Folgende Schritte müssen durchgeführt werden:
 
