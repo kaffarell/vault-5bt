@@ -4,14 +4,11 @@
 - Il positivismo è "finito"
 	- Nell positivismo tutto era defnito, tutto poteva essere spiegato
 	- Nietzsche, Bergson -> nuove teorie filosofiche
-	- crisi delle certezze (niente è più sicuro)
-		- Nietzsche -> Superuomo (Übermensch) 
-		- Bergson -> Tempo della coscienza: tempo come durata
-		- Einstein -> Teoria della relatività: tempo e spazio non sono di un valore assoluto (sono relativi)
-		- Freud -> Psicanalisi: la scoperta dell' inconscio (unterbewusstsein)
+	- [[2 Crisi delle certezze|Crisi delle certezze]](niente è più sicuro)
 		
 ## Romanzi delle "crisi" caratteristiche
 
+- Descrive la realtá in crisi (Protagonista non é sicuro di sé, perdenti, sconfitti, persone alienate dalla societá)
 - realtà soggetiva (nessuna verità scientifica)
 - pluralità dei significati (mehrdeutigkeit)
 - focus sul interiorità del personaggio (fokus auf der person selber, auf das innere der person)

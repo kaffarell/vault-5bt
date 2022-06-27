@@ -1,5 +1,5 @@
 ## Crisi delle Certezze
-Entrano in crisi le certezze del positivismo. La realtá non puó piú essere spiegata in modo obiettivo. Se tutto é relativo, anche io sono relativo (muroe l'individualitá)
+Entrano in crisi le certezze del positivismo. La realtá non puó piú essere spiegata in modo obiettivo. Se tutto é relativo, anche io sono relativo (muore l'individualitá)
 
 - Einstein
 	- La realtá dipende dall punto di vista dell osservatore
@@ -15,4 +15,4 @@ Entrano in crisi le certezze del positivismo. La realtá non puó piú essere sp
 	- Io - Concio - Equilibrio tra l'es e il SuperIo - senza equilibrio si diventa pazzo
 	- SuperIo - La societá che ci da le regole e struttura - repressa impulsi animali
 
-Romanzo dei crisi ⟶ Descrivi la realtá in crisi (Protagonista non é siccuro di sé, perdenti, sconfitti, persone alienate dalla societá)
+[[4 Il romanzo della crisi e Pirandello|Romanzo delle crisi]] ⟶ Descrive la realtá in crisi (Protagonista non é sicuro di sé, perdenti, sconfitti, persone alienate dalla societá)
