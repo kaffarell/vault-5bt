@@ -17,21 +17,21 @@
 
 
 * DORA: 
-	* Discover 
+	* Discover:
 		* Von Client an Server 
 		* Dest Mac = Broadcast (FF:FF) 
 	* Offer:
 		* Server schickt Anfrage an Client 
 		* Dest Mac = Client 
-	* Request: 
+	* Request:
 		* Client requestet IP 
 		* Dest Mac = Server Mac 
-	* Acknowledge: 
+	* Acknowledge:
 		* Server erteilt Erlaubnis 
 		* Dest Mac = Client 
 		
-	* Config: 
-		* Router: 
+	* Config:
+		* Router:
 ```cmd
 ip dhcp excluded-address UntereIP ObereIP 
 ip dhcp pool name 
