@@ -9,7 +9,7 @@ Folgende Schritte müssen durchgeführt werden:
   > p = 11  q = 17
 - beide Primzahlen werden miteinander multipliziert und ergeben N
   > N = p * q = 11 * 17 = 187
-- beide Primzahlen werden miteinander multipliziert und ergeben Φ(n)
+- beide Primzahlen minus 1 werden miteinander multipliziert und ergeben Φ(n)
   > Φ(N) = (p-1) * (q-1) = (11-1) * (17-1) = 10 * 16 = 160
 - es muss eine Zahl e gefunden werden für die gilt 1 < e < Φ(N) und e und Φ(N) sind teilerfremd.
   Am einfachsten ist das, in dem man eine Primzahl wählt, die kleiner als Φ(N) ist und nicht ein Teiler von Φ(N) ist.
