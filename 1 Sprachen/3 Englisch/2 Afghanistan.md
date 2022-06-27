@@ -1,0 +1,5 @@
+- die russen hobn die afghanische regierung gstürzt und a kommunistische regierung eingsetzt
+- die amerikaner hobn gewellt die ausbreitung von kommunismus verhindern und hobn desholb die mujahideen mit woffen ausgstottet und sie ausgebildet
+- die sel hobn donn die kommunistische regierung gstürtzt und die macht an sich genummen
+- sie hobn sich obo net gewellt von die amerikaner einireden lossen und hobn gewellt streng noch muslimische regeln leben und hobn deswegen die taliban gegründet
+- taliban sein donn praktisch die mujahideen, lei gegen amerika und sie hondeln lei nochn koran und wos ihre priester sogen
