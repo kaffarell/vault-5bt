@@ -1,7 +1,7 @@
 ## ER-Modellierung
 * Keine schwache Entitäten oder Generalisierung reinzwingen (braucht es meistens nicht)
 * Bei der Beziehung nur verben rein schreiben
-* Unklarheiten ob 1:n oder n:m (Manchmal schwierig zu erkennen, imfall Tabelle machen)
+* Unklarheiten ob 1:n oder n:m (Manchmal schwierig zu erkennen, evtl. Tabelle machen)
 * **Wichtig: chen-notation und min:max notation nicht vermischen!**
 * Entität sollte man nur erstellen wenn es mehr als ein String ist (sonst einfach attribut)
 * **Wichtig: keine Fremdschlüssel im ER-Diagramm (also sind nur partielle Schlüssel gestrichelt unterstrichen)**

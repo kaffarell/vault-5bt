@@ -1,3 +1,8 @@
+## Articolo:
+classroom (version dei mir gemocht hoben): https://classroom.google.com/u/3/c/Mzg4NTM3OTYwNDA4/a/NDcxOTgwMzg1MTY3/details
+oder komplette version:
+https://www.orizzontipolitici.it/energia-nucleare-dibattito-pubblico/
+
 # Riassunto
 - 2022 - l UE fa la proposta di considerare l'energia nucleare come fonte di energia __green__
 - Molti paesi, tra cui l'Italia sono d'accordo, la Germania invece no
