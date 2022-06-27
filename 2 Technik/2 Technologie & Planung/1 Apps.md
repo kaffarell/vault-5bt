@@ -1,4 +1,9 @@
 ## Klasse R
+- R steht für Ressourcen
+- Statische Klasse die zur kompilierzeit erstellt wird
+- Hat viele statische variablen, die automatisch erstellt werden
+- Mappt dateipfad zu resource zu einfachen attribut
+	- Man muss also nicht im Code den Pfad zum (zB.:) Bild eingeben sondern man kann einfach `R.resources.name_der_datei` eingeben 
 
 ## Activities
 - Enthalten Benutzeroberfläche
