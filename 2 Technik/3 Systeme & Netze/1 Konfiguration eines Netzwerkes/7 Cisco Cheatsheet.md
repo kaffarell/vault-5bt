@@ -1,22 +1,13 @@
 **Set password for router serial port:
 
 -   ena
-    
 -   config
-    
 -   line config 0
-    
 -   password cisco
-    
 -   login
-    
-
 -   exit
-    
 -   exit
-    
--   exit
-    
+-   exit    
 
 Dann muss man login machen
 
