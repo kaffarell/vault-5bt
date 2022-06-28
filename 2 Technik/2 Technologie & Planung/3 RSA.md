@@ -19,10 +19,11 @@ Folgende Schritte müssen durchgeführt werden:
   Das ist der komplizierteste Teil der Berechnung. Am einfachsten die Berechnung in Tabellen/Matrix schreibweise
   
   Wir erstellen folgende Tabelle:
-  `
-  Φ(N) | e | R | x | d
-       |   |   |   |
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |      |   |   |   |   |
+  
  
   Wir tragen unsere Werte für Φ(N) und e ein. R, x und d ignorieren wir für den Moment:
   `
