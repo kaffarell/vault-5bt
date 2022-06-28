@@ -102,7 +102,7 @@
 -   237 MRD USD
 
 ### Kriegsschuldfrage
--   Schuld komplett Deustchland und Österreich
+-   Schuld komplett Deutschland und Österreich
 -   Eigentlich auch den Anderen --> nahmen Krieg in Kauf um Konflikte zu lösen
 
 ### Ausgang 1. Weltkrieg Wurzel für 2. Weltkrieg

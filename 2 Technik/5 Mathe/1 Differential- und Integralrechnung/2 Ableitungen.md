@@ -20,4 +20,4 @@ $\left(\frac{f(x)}{g(x)}\right)' = \frac{f(x)' * g(x) - f(x) * g(x)'}{g(x)^2}$
 
 $\left(e^{\ln(x)}\right)' = e^{\ln(x)} \cdot \ln(x)' = x \cdot \ln(x)' = 1$
 ```
-
+![300](https://cdn.discordapp.com/attachments/976925559198216262/991008783092293702/unknown.png)
