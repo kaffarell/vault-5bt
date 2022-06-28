@@ -1,11 +1,19 @@
-#### Abeltiungsregeln:
+#### Ableitungsregeln:
+
+```ad-success
+title: Theorie
+![[ableitung_theorie.png]]
+Begriffe:
+![[ableitung_theorie1.png]]
+```
+
 ```ad-success
 title: Einfache Regeln
 $(e^x)'=e^x$
 $x'=1$ 
-$k^x = \ln(a) \cdot a^x$
+$k^x = \ln(k) \cdot k^x$
 $k'=0$ 
-$(x^n)' = n \cdot x^{n/1}$ 
+$(x^n)' = n \cdot x^{n-1}$ 
 $\ln(x)' = \frac{1}{x}$
 ```
 ```ad-success
