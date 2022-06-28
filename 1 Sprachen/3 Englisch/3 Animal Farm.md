@@ -25,7 +25,15 @@ With the right language Napoleon gains power. He makes empty promises, but these
 
 
 ## Maturafragen
-- **What are the parallels between “Animal Farm” and real history? - How was the spirit of Animalism broken later in the book? In your opinion, is Communism a good form of government?**
-
+- **What are the parallels between “Animal Farm” and real history?**
+	 - Old Major --> marxism (Lenin)
+	 - Jones (Farm owner) --> Zar Nicholas II
+	 - Animal rebellion --> Russian revolution 1917
+	 - **Napoleon --> Stalin**
+	 - Snowball --> Trotzky (political opponent of Stalin)
+	 - Napoleon's dogs --> Stalin's secret police
+	
+- **How was the spirit of Animalism broken later in the book? In your opinion, is Communism a good form of government?**
+	(Animalism is communism but for animals)
 - **What do the pigs in the book represent? - What does the windmill stand for? - What does the sentence “All animals are equal, but some animals are more equal than others” embody?**
 - **How did they justify and manage to change the rules/amendments?**
