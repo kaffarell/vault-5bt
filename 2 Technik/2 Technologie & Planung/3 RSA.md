@@ -151,14 +151,14 @@ Folgende Schritte müssen durchgeführt werden:
   Jetzt, nachdem öffentlicher und privater Schlüssel berechnet wurden, kann jede Zahl kleiner als N verschlüsselt werden.
   Dafür bracuht es folgende Formel:
   > z^e % N  
-  dabei ist z eine Zahl < N und e und N unser öffentlicher Schlüssel.
+  dabei ist z eine Zahl < N und e und N unser öffentlicher Schlüssel.  
   Zum Beispiel verschlüsseln wir jetzt die Zahl 50.
   > 50^23 mod 187 = 84
   
   Die Zahl 84 können wir jetzt dem Empfänger problemlos schicken, da sie nur mit dem privaten Schlüssel d wieder entschlüsselt werden kann.
   Dafür benutzen wir folgende Formel
   > c^d % N  
-  dabei ist c die verschlüsselte Zahl, d der private Key und N der Teil des öffentlichen Schlüssels
+  dabei ist c die verschlüsselte Zahl, d der private Key und N der Teil des öffentlichen Schlüssels.  
   Wir setzen ein:
   > 84^7 mod 187 = 50
   
