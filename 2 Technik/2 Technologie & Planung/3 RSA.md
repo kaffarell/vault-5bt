@@ -6,7 +6,8 @@ Die Sicherheit des RSA beruht auf dem modulo Operator und auf dem Faktorisierung
 Folgende Schritte müssen durchgeführt werden:
 
 - zwei Primzahlen p und q werden gewählt (in der Praxis müssen diese extrem groß sein, um die Sicherheit zu gewährleisten, in unserem Beispiel nehmen wir kleine Zahlen)
-  > p = 11  q = 17
+  > p = 11  
+  > q = 17
 - beide Primzahlen werden miteinander multipliziert und ergeben N
   > N = p * q = 11 * 17 = 187
 - beide Primzahlen minus 1 werden miteinander multipliziert und ergeben Φ(n)
@@ -152,14 +153,14 @@ Folgende Schritte müssen durchgeführt werden:
   Dafür bracuht es folgende Formel:
   > z^e % N  
   dabei ist z eine Zahl < N und e und N unser öffentlicher Schlüssel.  
-  Zum Beispiel verschlüsseln wir jetzt die Zahl 50.
+  Zum Beispiel verschlüsseln wir jetzt die Zahl 50.  
   > 50^23 mod 187 = 84
   
   Die Zahl 84 können wir jetzt dem Empfänger problemlos schicken, da sie nur mit dem privaten Schlüssel d wieder entschlüsselt werden kann.
   Dafür benutzen wir folgende Formel
   > c^d % N  
   dabei ist c die verschlüsselte Zahl, d der private Key und N der Teil des öffentlichen Schlüssels.  
-  Wir setzen ein:
+  Wir setzen ein:  
   > 84^7 mod 187 = 50
   
   Wir erhalten wieder 50, also die Zahl, die verschlüsselt wurde, also hat alles perfekt funktioniert!
