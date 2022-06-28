@@ -16,6 +16,7 @@ Allierte besetzen Ruhrgebiete weil DE nicht genug Reparationszahlungen zahlt
 - Ermächtigungsgesetze übertragen die Legislative auf die Regierung
 - Gewerkschaften & andere Parteien wurden verboten
 - SA (=Privatarmee der NSDAP) wird beseitig aus Angst vor Konkurenz
+- Zweigleisige Außenpolitik: Hitlers **Außenpolitik** umfasste von Beginn an zwei **Ziele**: die Revision des Versailler Vertrags und die Eroberung von “Lebensraum im Osten”. Dazu schloss er einerseits Friedensverträge (Nichtangriffspakt mit Polen, Flottenabkommen mit England) um einen friedlichen Anschein nach außen zu machen, andererseits bereitete er Deutschland auf einen Krieg vor (Wehrpflicht, besetzung Rheinland -> politik der vollendeten Tatsachen)
 - Stufen: Reichsbrandverordnung -> Ermächtigungsgesetzt -> Gleichschaltungsgesetzt -> "Röhm Putsch" -> Hitler Nachfolger Hindenburg
 
 
