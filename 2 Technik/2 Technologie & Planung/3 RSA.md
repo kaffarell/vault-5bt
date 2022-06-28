@@ -88,12 +88,12 @@ Folgende Schritte müssen durchgeführt werden:
   |   1  |  0|   | 1 | 0 |
   
     
-  Das d dieser Zeile wird jetzt berchnet, in dem man folgende Gleichung löst:
-  > 1 = Φ(N) * x + e * d
-  Wir setzen die Werte dieser Zeile ein und lösen die Gleichung:
-  > 1 = 22 * 0 + 1 * d
-  > 1 = 1*d
-  > 1 = d
+  Das d dieser Zeile wird jetzt berchnet, in dem man folgende Gleichung löst:  
+  > 1 = Φ(N) * x + e * d  
+  Wir setzen die Werte dieser Zeile ein und lösen die Gleichung:  
+  > 1 = 22 * 0 + 1 * d  
+  > 1 = 1*d  
+  > 1 = d  
   
   Das Ergebnis schreiben wir dann in die d Spalte und auch wieder in die darüberliegende Zeile in die x Spalte:
   
@@ -106,12 +106,12 @@ Folgende Schritte müssen durchgeführt werden:
   
   
   Jetzt müssen wir wieder die Gleichung lösen:
-  > 1 = Φ(N) * x + e * d
+  > 1 = Φ(N) * x + e * d  
   Wir setzen wieder die Werte dieser Zeile ein und lösen:
-  > 1 = 23 * 1 + 22 * d
-  > 1 = 23 + 22d
-  > -22 = 22d
-  > -1 = d
+  > 1 = 23 * 1 + 22 * d  
+  > 1 = 23 + 22d  
+  > -22 = 22d  
+  > -1 = d  
   
   Wir tragen die Ergebnisse ein:
   
@@ -124,11 +124,11 @@ Folgende Schritte müssen durchgeführt werden:
   
     
   Diesen Prozess wiederholen wir bis ganz oben. In unserem Beispiel braucht es nur noch eine Berechnung deshalb zeige ich sie vollständigzeithalber:
-  1 = Φ(N) * x + e * d
-  1 = 160 * -1 + 23 * d
-  1 = -160 + 23d
-  161 = 23d
-  7 = d
+  > 1 = Φ(N) * x + e * d  
+  > 1 = 160 * -1 + 23 * d  
+  > 1 = -160 + 23d  
+  > 161 = 23d  
+  > 7 = d  
   
   Hinweis: Für d muss in jedem Schritt eine Ganzzahl herauskommen, ansonsten ist ein Rechenfehler vorgekommen
   
@@ -150,13 +150,15 @@ Folgende Schritte müssen durchgeführt werden:
   
   Jetzt, nachdem öffentlicher und privater Schlüssel berechnet wurden, kann jede Zahl kleiner als N verschlüsselt werden.
   Dafür bracuht es folgende Formel:
-  > z^e % N, dabei ist z eine Zahl < N und e und N unser öffentlicher Schlüssel.
+  > z^e % N  
+  dabei ist z eine Zahl < N und e und N unser öffentlicher Schlüssel.
   Zum Beispiel verschlüsseln wir jetzt die Zahl 50.
   > 50^23 mod 187 = 84
   
   Die Zahl 84 können wir jetzt dem Empfänger problemlos schicken, da sie nur mit dem privaten Schlüssel d wieder entschlüsselt werden kann.
   Dafür benutzen wir folgende Formel
-  > c^d % N, dabei ist c die verschlüsselte Zahl, d der private Key und N der Teil des öffentlichen Schlüssels
+  > c^d % N  
+  dabei ist c die verschlüsselte Zahl, d der private Key und N der Teil des öffentlichen Schlüssels
   Wir setzen ein:
   > 84^7 mod 187 = 50
   
