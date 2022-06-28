@@ -89,11 +89,11 @@ Folgende Schritte müssen durchgeführt werden:
   
     
   Das d dieser Zeile wird jetzt berchnet, in dem man folgende Gleichung löst:
-  1 = Φ(N) * x + e * d
+  > 1 = Φ(N) * x + e * d
   Wir setzen die Werte dieser Zeile ein und lösen die Gleichung:
-  1 = 22 * 0 + 1 * d
-  1 = 1*d
-  1 = d
+  > 1 = 22 * 0 + 1 * d
+  > 1 = 1*d
+  > 1 = d
   
   Das Ergebnis schreiben wir dann in die d Spalte und auch wieder in die darüberliegende Zeile in die x Spalte:
   
@@ -106,12 +106,12 @@ Folgende Schritte müssen durchgeführt werden:
   
   
   Jetzt müssen wir wieder die Gleichung lösen:
-  1 = Φ(N) * x + e * d
+  > 1 = Φ(N) * x + e * d
   Wir setzen wieder die Werte dieser Zeile ein und lösen:
-  1 = 23 * 1 + 22 * d
-  1 = 23 + 22d
-  -22 = 22d
-  -1 = d
+  > 1 = 23 * 1 + 22 * d
+  > 1 = 23 + 22d
+  > -22 = 22d
+  > -1 = d
   
   Wir tragen die Ergebnisse ein:
   
