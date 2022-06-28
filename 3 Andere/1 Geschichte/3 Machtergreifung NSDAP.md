@@ -16,3 +16,7 @@ Allierte besetzen Ruhrgebiete weil DE nicht genug Reparationszahlungen zahlt
 - Ermächtigungsgesetze übertragen die Legislative auf die Regierung
 - Gewerkschaften & andere Parteien wurden verboten
 - SA (=Privatarmee der NSDAP) wird beseitig aus Angst vor Konkurenz
+- Stufen: Reichsbrandverordnung -> Ermächtigungsgesetzt -> Gleichschaltungsgesetzt -> "Röhm Putsch" -> Hitler Nachfolger Hindenburg
+
+
+![[Pasted image 20220628162122.png]]
