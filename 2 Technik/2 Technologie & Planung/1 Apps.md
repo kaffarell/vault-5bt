@@ -26,7 +26,7 @@
 
 ## Broadcast Receiver
 - Reagieren auf systemweite nachrichten
-- Zum beispiel reagiert ein broadcast receiver auf der nachricht "Batteriestand ist niedrich"
+- Zum beispiel reagiert ein broadcast receiver auf der nachricht "Batteriestand ist niedrig"
 
 # Nicht Native Apps
 - Beispiele:
@@ -35,4 +35,4 @@
 	- Native Script
 	- Ionic
 	
-- Mann programmiert mit Javascript (oder bei Flutter mit Dart), HTML und CSS. Man kann so schneller User-Interfaces erstellen, wie bei Webseiten(Mann kann auch code einer webapp wiederverwenden für einer app). Nachteil ist dass diese Apps meistents längsamer laufen und auch nur begrenzt auf nativen ressourcen zugreifen können (Kamera, Sensoren, etc).
+- Mann programmiert mit Javascript (oder bei Flutter mit Dart), HTML und CSS. Man kann so schneller User-Interfaces erstellen, wie bei Webseiten(Mann kann auch code einer webapp wiederverwenden für einer app). Nachteil ist dass diese Apps meistents langsamer laufen und auch nur begrenzt auf nativen ressourcen zugreifen können (Kamera, Sensoren, etc).

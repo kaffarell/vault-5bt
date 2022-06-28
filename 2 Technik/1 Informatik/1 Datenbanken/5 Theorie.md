@@ -29,3 +29,9 @@ In der letyten Relation fällt C weg, da sich C bereits in der transitiven Hüll
 
 #### Leere Klauseln
 #### Zusammenfassen
+
+## ACID
+Atomicity (Jede "Transaktion" muss in einem mal ausgeführt werden)
+Consistency (Datenbank wird nur in validem Zustand hinterlassen)
+Isolation (Transaktionen entstehen unabhängig von einander und ohne sich gegenseitig zu beinflussen)
+Durability (Die Änderungen einer Erflogreichen Transaktion bleiben vorhanden, sogar wenn das System aufällt)
