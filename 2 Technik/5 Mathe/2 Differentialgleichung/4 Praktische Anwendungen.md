@@ -11,10 +11,12 @@ $T_u = Umgebungstemperatur$
 ```ad-success
 title: Radioaktiver zerfall
 
-$\frac{dT}{dt}\ = -k * (T-T_u)$
+$\frac{dN}{dt}\ = -\lambda * N$
+N = Anfagsatome
+t = Zeit
+$\lambda$ = Änderungsrate
 
-$k = Abkühlungskonstante$
-$T = Temperatur\; eines\; Körper$
-$T_u = Umgebungstemperatur$
+Gelöst:
+$N(t) = N_0 \cdot e^{-\lambda\cdot t}$
 ```
 
