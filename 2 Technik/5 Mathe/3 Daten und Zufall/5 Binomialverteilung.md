@@ -1,0 +1,1 @@
+siehe [[3 Varianz & Standardabweichung]]
