@@ -26,60 +26,67 @@ Folgende Schritte müssen durchgeführt werden:
   
  
   Wir tragen unsere Werte für Φ(N) und e ein. R, x und d ignorieren wir für den Moment:
-  `
-  Φ(N) | e | R | x | d
-   160 | 23|   |   |
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23|   |   |   |
+  
  
   Jetzt schauen wir wie oft e in Φ(N) platz hat, also floor(160 / 23) = floor(6.96) = 6
   Das tragen wir in der R Spalte ein.
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |   |
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |   |   |
+  
 
   Dann schauen wir wie viel Rest bleibt, also 160 mod 23 = 22.
   Das tragen wir in der nächsten Zeile unter dem e ein.
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |   |
-       | 22|   |   |
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |   |   |
+  |      | 22|   |   |   |
+  
        
   Das alte e, in dem Fall 23, schreiben wir in die neue Φ(N) Spalte
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |   |
-    23 | 22|   |   |
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |   |   |
+  |   23 | 22|   |   |   |
+  
     
   Diese Schritte wiederholen wir jetzt so lange, bis die Division aufgeht, also modulo 0 rauskommt:
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |   |
-    23 | 22| 1 |   |
-    22 |  1| 22|   |
-    1  |  0|
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |   |   |
+  |   23 | 22| 1 |   |   |
+  |   22 |  1| 22|   |   |
+  |   1  |  0|   |   |   |
+  
     
   Jetzt müssen x und d berechnet werden! Man rechnet die Tabelle von unten nach oben.
   Zuerst wir 1 und 0 hinübergeschrieben
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |   |
-    23 | 22| 1 |   |
-    22 |  1| 22|   |
-    1  |  0|   | 1 | 0 
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |   |   |
+  |   23 | 22| 1 |   |   |
+  |   22 |  1| 22|   |   |
+  |   1  |  0|   | 1 | 0 | 
+  
     
   Das Ergebnis von d wir das x der Zeile darober:
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |   |
-    23 | 22| 1 |   |
-    22 |  1| 22| 0 |
-    1  |  0|   | 1 | 0
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |   |   |
+  |   23 | 22| 1 |   |   |
+  |   22 |  1| 22| 0 |   |
+  |   1  |  0|   | 1 | 0 |
+  
     
   Das d dieser Zeile wird jetzt berchnet, in dem man folgende Gleichung löst:
   1 = Φ(N) * x + e * d
@@ -89,13 +96,14 @@ Folgende Schritte müssen durchgeführt werden:
   1 = d
   
   Das Ergebnis schreiben wir dann in die d Spalte und auch wieder in die darüberliegende Zeile in die x Spalte:
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |   |
-    23 | 22| 1 | 1 |
-    22 |  1| 22| 0 | 1
-    1  |  0|   | 1 | 0
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |   |   |
+  |   23 | 22| 1 | 1 |   |
+  |   22 |  1| 22| 0 | 1 |
+  |   1  |  0|   | 1 | 0 |
+  
   
   Jetzt müssen wir wieder die Gleichung lösen:
   1 = Φ(N) * x + e * d
@@ -106,13 +114,14 @@ Folgende Schritte müssen durchgeführt werden:
   -1 = d
   
   Wir tragen die Ergebnisse ein:
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |-1 |
-    23 | 22| 1 | 1 | -1
-    22 |  1| 22| 0 | 1
-    1  |  0|   | 1 | 0
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |-1 |   |
+  |   23 | 22| 1 | 1 | -1|
+  |   22 |  1| 22| 0 | 1 |
+  |   1  |  0|   | 1 | 0 |
+  
     
   Diesen Prozess wiederholen wir bis ganz oben. In unserem Beispiel braucht es nur noch eine Berechnung deshalb zeige ich sie vollständigzeithalber:
   1 = Φ(N) * x + e * d
@@ -124,13 +133,14 @@ Folgende Schritte müssen durchgeführt werden:
   Hinweis: Für d muss in jedem Schritt eine Ganzzahl herauskommen, ansonsten ist ein Rechenfehler vorgekommen
   
   Wir tragen das Ergebnis ein:
-  `
-  Φ(N) | e | R | x | d
-   160 | 23| 6 |-1 | 7
-    23 | 22| 1 | 1 | -1
-    22 |  1| 22| 0 | 1
-    1  |  0|   | 1 | 0
-  `
+  
+  | Φ(N) | e | R | x | d |
+  | ---- | - | - | - | - |
+  |  160 | 23| 6 |-1 | 7 |
+  |   23 | 22| 1 | 1 | -1|
+  |   22 |  1| 22| 0 | 1 |
+  |   1  |  0|   | 1 | 0 |
+  
     
   Unser letztes Ergebnis für d ist 7, das ist also unser privater Schlüssel, den wir auf keinen Fall veröffentlichen dürfen.
   WICHTIG: Falls d negativ wäre, was durchaus vorkommen kann, dann muss noch einmal Φ(N) addiert werden. In diesem Fall müsste also 160 addiert werden, wenn d negativ wäre.
@@ -153,13 +163,3 @@ Folgende Schritte müssen durchgeführt werden:
   Wir erhalten wieder 50, also die Zahl, die verschlüsselt wurde, also hat alles perfekt funktioniert!
   
   Finally :))
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
