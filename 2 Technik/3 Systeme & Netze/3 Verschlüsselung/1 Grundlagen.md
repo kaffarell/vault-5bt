@@ -38,3 +38,19 @@ Zwei Arten von Verschlüsselungen:
 	- Kann Daten entschlüsseln
 	- Kann eine digitale Signatur erstellen
 	- Man kann sich dadurch authentifizieren
+	
+	
+	
+## Beispiel: TLS
+- HTTPS verschlüsselt alle verbindungen
+- Benützt dazu TLS (wurde früher SSL genannt) (Transport Layer Security)
+- TLS nutzt asymmetrische und symmetrische Verschlüsselung um das beste von beiden zu bekommen: Geschwindigkeit und Sicherheit.
+- TLS 1.3 benützt  normalwerweise RSA(asymmetrisch) und AES(symmetrisch)
+
+### TLS Handshake
+- Server generiert pub und priv key
+- Server schickt unverschlüsselt zufällig generierte Zahl dem Client (server secret)
+- Client schickt unverschlüsselt zufällig generierte Zahl dem Server (client secret)
+- Client generiert zufällige zahl (premaster secret), verschlüsselt es mit pub key vom Server und schickt es dem Server.
+- Aus dem server secret, client secret und premaster secret wird eine session key generiert (Beide server und client sollte auf der selben session key kommen)
+- Dann wird immer mit AES(symmetrisch) und der session key verschlüsselt kommuniziert. (Jetzt kann auch pub und priv key gelöscht werden, weil es sie nicht mehr braucht, jetzt wird nur noch symmetrisch kommuniziert)
