@@ -1,7 +1,7 @@
 
-Was gehört zur Kurvendiskussion:
+### Was gehört zur Kurvendiskussion:
 1) Art der Funktion
-   ![300](https://cdn.discordapp.com/attachments/976925559198216262/990977992656289942/unknown.png)
+   ![500](https://cdn.discordapp.com/attachments/976925559198216262/990977992656289942/unknown.png)
 2) Definitionsbereich, Polstellen (bzw. Lücken)
 3) Stetigkeit
 	- Bei Definitionslücken (z.B. Polstellen) ist die Funktion nicht stetig, da sie "unterbrochen" wird.
