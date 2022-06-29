@@ -18,4 +18,4 @@
 - eps modifizieren (Info/TP, usw.) --> [[1 Genetic Engineering|Genetic Engineering]]
 - [[13 Energia nucleare|Energia Nucleare]] --> Vorteile
 - [[6 Kalter Krieg]] --> Wettlauf zum Mond --> conspiracy theories
-- Wettlauf zum Mond --> [[14 Starship super heavy|Starship]] --> [[15 Cronache marziane|cronache marziane]]
+- Wettlauf zum Mond --> [[14 Starship super heavy|Starship]] --> [[15 Cronache marziane#Riassunto - Il verde mattino|cronache marziane - il verde mattino]]

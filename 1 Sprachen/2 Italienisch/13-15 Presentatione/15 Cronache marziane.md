@@ -12,9 +12,14 @@
 
 ## Riassunto - Il verde mattino
 - colonizzazione di Marte è agli inizi
-- paesaggio inospitabile --> medico dice al protgonista, **Benjamin Driscoll**, a tornare sulla terra perché ha difficoltá a respirare e non sono molti alberi sul marte
-- Driscoll vuole rimanere sul marte e pensa che potrebbe rimanere li se pioverebbe perchè poi gli alberi creserebbero
-- Qualla notte piove e gli alberi crescono e lui puo rimanere sul marte
+- paesaggio inospitabile --> medico dice al protgonista, **Benjamin Driscoll**, di tornare sulla terra perché ha difficoltà a respirare
+- Driscoll vuole rimanere sul marte per far crescere alberi cosicché lui può respirare aria fresca - comandante lo autorizza a farlo
+- Pianta numerosi alberi e numerose piante ma manca la pioggia
+- Una notte piove --> alberi e piante crescono
+- Alla fine svenisce (=wert ohnmächtig) ancora una volta
+	**Possibiltà di interpretazione:**
+		- La pioggia è solo un allucinazione (=Hallutination) e lui svenisce
+		- È la soddisfazione che causa che lui sviene
 
 ## Domande
 Chi é l'autore della storia?
