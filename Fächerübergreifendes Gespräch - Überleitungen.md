@@ -1,17 +1,17 @@
 # Potentielle Anschlussthemen
-- Kalter Krieg/2.Weltkrieg --> Atombombe --> Radioaktiver Zerfall ^a7bee1
-- 2. Weltkrieg/Nazis --> Enigma --> Alan Turing --> Maschinen wie Ich
-- Alan Turing --> LGBTQ --> Trans leit net in US Militär erlabt --> US Militär --> Afghanistan Krieg 
-- 2. Weltkrieg/Nazis --> Enigma --> Verschlüsselung --> Wahrscheinlichkeit (sehr unwahrscheinlich dass Verschlüsselung geknackt)
-- Ukraine Krieg (Englisch) --> Ukraine Krieg (Geschichte) --> kalter Krieg --> [[Fächerübergreifendes Gespräch - Überleitungen#^a7bee1|erster Punkt]]
-- Auf Bild Menschenmassen zu sehen --> Ita cultura di masssa
+- [[6 Kalter Krieg]]/[[5 Verlauf zweiter Weltkrieg]] --> Atombombe --> [[4 Praktische Anwendungen|Radioaktiver Zerfall]] ^ersterPunkt
+- [[5 Verlauf zweiter Weltkrieg]]/Nazis --> Enigma --> Alan Turing --> Maschinen wie Ich
+- Alan Turing --> LGBTQ --> Trans leit net in US Militär erlabt --> US Militär --> [[2 Afghanistan]]
+- [[5 Verlauf zweiter Weltkrieg]]/Nazis --> Enigma --> [[1 Grundlagen|Verschlüsselung]] --> [[2 Zufall & Wahrscheinlichkeit]] (sehr unwahrscheinlich dass Verschlüsselung geknackt)
+- Ukraine Krieg (Englisch) -->[[7 Ukraine]] (Geschichte) -->[[6 Kalter Krieg]] --> [[Fächerübergreifendes Gespräch - Überleitungen#^ersterPunkt|erster Punkt]]
+- Auf Bild Menschenmassen zu sehen --> Ita cultura di masssa [[1 Belle Epoque#Societá di massa|Societá di massa]]
 - Der Ukraine Krieg sollte eigentlich auch zeitlich begrenzt sein --> mir fällt dazu jetzt ein - in PM ist ein Projekt auch zeitlich begrenzt
 - Agiles Vorgehensmodell --> agil --> Blitzkrieg
-- 1. Weltkrieg --> Ita neutralisti e interventisti
-- Jahrhudertwende (Deutsch) zu --> Belle Epoque und Ita narrativa della crisi
-- Verschlüsselung --> schlüssel --> Datenbanksystem
-- Hörigkeit/sexueller Missbrauch (Deutsch) --> Ita Testimone inconsapevole - signora Cassano ha maltrattato il marito
-- Genetic engineering - genetic modified dogs --> Ita testimone processo dogfighting
-- Sinus Mathe --> Wirtschaftszyklen (Ges bil) --> Wirtschaft (PM)
-- DMZ (SN) --> DMZ zwischen Korea --> Koreakrieg
-- WW2/Nazis --> Z1 (Erster Computer) --> Computer haben sich seit dem weit entwickelt --> Computer heute können alles, von Programmen, zu Webseiten --> HTML, CSS, JS, etc. --> (evtl.) PHP
+- [[1 Erster Weltkrieg]] -->[[3 Neutralisti e Interventisti]]
+- Jahrhudertwende (Deutsch [[10 Naturalismus]]) --> [[1 Belle Epoque]] und Ita [[2 Crisi delle certezze]]
+- [[1 Grundlagen|Verschlüsselung]] --> schlüssel --> [[5 Theorie|Datenbanken]]
+- Hörigkeit/sexueller Missbrauch (Deutsch [[10 Naturalismus]]) --> Ita Testimone inconsapevole - signora Cassano ha maltrattato il marito [[Riepilogo#2_1|Link]]
+- Genetic engineering - genetic modified dogs --> Ita testimone processo dogfighting [[Riepilogo#2_7|Link]]
+- Sinus Mathe --> Wirtschaftszyklen (Ges bil [[Fragen#Konjunktur-Schwankungen Phasen‌|Link]]) --> Wirtschaft (PM)
+- DMZ (SN [[3 DMZ]]) --> DMZ zwischen Korea --> Koreakrieg [[6 Kalter Krieg#Koreakrieg|Link]]
+- [[5 Verlauf zweiter Weltkrieg]]/Nazis --> Z1 (Erster Computer) --> Computer haben sich seit dem weit entwickelt --> Computer heute können alles, von Programmen, zu Webseiten --> HTML, CSS, JS, etc. --> (evtl.) PHP
