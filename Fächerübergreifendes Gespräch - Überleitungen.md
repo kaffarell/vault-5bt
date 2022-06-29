@@ -1,0 +1,13 @@
+# Potentielle Anschlussthemen
+- Kalter Krieg/2.Weltkrieg --> Atombombe --> Radioaktiver Zerfall ^a7bee1
+- 2. Weltkrieg/Nazis --> Enigma --> Alan Turing --> Maschinen wie Ich
+- 2. Weltkrieg/Nazis --> Enigma --> Verschlüsselung --> Wahrscheinlichkeit?
+- Ukraine Krieg (Englisch) --> Ukraine Krieg (Geschichte) --> kalter Krieg --> [[Fächerübergreifendes Gespräch - Überleitungen#^a7bee1|erster Punkt]]
+- Auf Bild Menschenmassen zu sehen --> Ita cultura di masssa
+- der Ukraine Krieg sollte eigentlich auch zeitlich begrenzt sein --> mir fällt dazu jetzt ein - in PM ist ein Projekt auch zeitlich begrenzt
+- agiles Vorgehensmodell --> agil --> Blitzkrieg
+- 1. Weltkrieg --> Ita neutralisti e interventisti
+- Jahrhudertwende (Deutsch) zu --> Belle Epoque und Ita narrativa della crisi
+- Verschlüsselung --> schlüssel --> Datenbanksystem
+- Hörigkeit/sexueller Missbrauch (Deutsch) --> Ita Testimone inconsapevole - signora Cassano ha maltrattato il marito
+- Genetic engineering - genetic modified dogs --> Ita testimone processo dogfighting

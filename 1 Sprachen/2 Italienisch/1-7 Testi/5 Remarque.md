@@ -1,6 +1,6 @@
 ## Remarque
 Niente di nuovo sul fronte Occidentale
-↳ Racconta sue esperienze della guerra
+↳ Racconta le sue esperienze della guerra
 
 - Erich Maria Remarque, nato in Germania, 1898
 - A 18 anni arriva sulla fronte
@@ -15,7 +15,7 @@ Niente di nuovo sul fronte Occidentale
 - Il francese non muore immediatamente e Paul deve sentirlo per alcune ore
 - Paul non ce la fa piú a sentire il francese e lo vuole aiutare
 - Il francese muore lo stesso
-- Paul dice che lo dispiace e che non voleva ucciderlo. Lo dice anche a prendere 20 anni della sua vita perché lui non sa cosa fare con sua
+- Paul dice che gli dispiace e che non voleva ucciderlo. Lo dice anche a prendere 20 anni della sua vita perché lui non sa cosa fare con la sua
 - Dice che loro avrebbero potuto essere fratelli senza le armi e la uniforma
-- Guarda nel portafoglio del francese e vede suo nome e che era tipographo ⟶ decide di diventare tipographo per onorarlo
-- Promette anche di fare tutto per ipedire(verhindern) un altra guerra
+- Guarda nel portafoglio del francese e vede suo nome e che era tipografo ⟶ decide di diventare tipografo per onorarlo
+- Promette anche di fare tutto per impedire (=verhindern) un altra guerra

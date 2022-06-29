@@ -14,7 +14,7 @@
 - focus sul interiorità del personaggio (fokus auf der person selber, auf das innere der person)
 - disagio esistenziale del personaggio (existenzkrisen) alienazione, incapace di entrare in contatto con la realtà
 - Monologo interno (Interner monolog), flusso di coscienza (Gedankenfluss)
-- pocha punteggiatura (wenig Satzzeichen)
+- poca punteggiatura (wenig Satzzeichen)
 
 
 ## Autori importanti
