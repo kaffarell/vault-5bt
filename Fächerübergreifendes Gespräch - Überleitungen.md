@@ -1,13 +1,17 @@
 # Potentielle Anschlussthemen
 - Kalter Krieg/2.Weltkrieg --> Atombombe --> Radioaktiver Zerfall ^a7bee1
 - 2. Weltkrieg/Nazis --> Enigma --> Alan Turing --> Maschinen wie Ich
-- 2. Weltkrieg/Nazis --> Enigma --> Verschlüsselung --> Wahrscheinlichkeit?
+- Alan Turing --> LGBTQ --> Trans leit net in US Militär erlabt --> US Militär --> Afghanistan Krieg 
+- 2. Weltkrieg/Nazis --> Enigma --> Verschlüsselung --> Wahrscheinlichkeit (sehr unwahrscheinlich dass Verschlüsselung geknackt)
 - Ukraine Krieg (Englisch) --> Ukraine Krieg (Geschichte) --> kalter Krieg --> [[Fächerübergreifendes Gespräch - Überleitungen#^a7bee1|erster Punkt]]
 - Auf Bild Menschenmassen zu sehen --> Ita cultura di masssa
-- der Ukraine Krieg sollte eigentlich auch zeitlich begrenzt sein --> mir fällt dazu jetzt ein - in PM ist ein Projekt auch zeitlich begrenzt
-- agiles Vorgehensmodell --> agil --> Blitzkrieg
+- Der Ukraine Krieg sollte eigentlich auch zeitlich begrenzt sein --> mir fällt dazu jetzt ein - in PM ist ein Projekt auch zeitlich begrenzt
+- Agiles Vorgehensmodell --> agil --> Blitzkrieg
 - 1. Weltkrieg --> Ita neutralisti e interventisti
 - Jahrhudertwende (Deutsch) zu --> Belle Epoque und Ita narrativa della crisi
 - Verschlüsselung --> schlüssel --> Datenbanksystem
 - Hörigkeit/sexueller Missbrauch (Deutsch) --> Ita Testimone inconsapevole - signora Cassano ha maltrattato il marito
 - Genetic engineering - genetic modified dogs --> Ita testimone processo dogfighting
+- Sinus Mathe --> Wirtschaftszyklen (Ges bil) --> Wirtschaft (PM)
+- DMZ (SN) --> DMZ zwischen Korea --> Koreakrieg
+- WW2/Nazis --> Z1 (Erster Computer) --> Computer haben sich seit dem weit entwickelt --> Computer heute können alles, von Programmen, zu Webseiten --> HTML, CSS, JS, etc. --> (evtl.) PHP
