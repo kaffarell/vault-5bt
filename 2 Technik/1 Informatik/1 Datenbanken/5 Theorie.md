@@ -34,6 +34,7 @@ In der letyten Relation fällt C weg, da sich C bereits in der transitiven Hüll
 #### Zusammenfassen
 
 ## ACID
+auch [[1 SQL Datenbanken|hier]]
 Atomicity (Jede "Transaktion" muss in einem mal ausgeführt werden)
 Consistency (Datenbank wird nur in validem Zustand hinterlassen)
 Isolation (Transaktionen geschehen unabhängig von einander und ohne sich gegenseitig zu beinflussen)
