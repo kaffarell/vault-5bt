@@ -5,7 +5,7 @@
 - Vorgegebene Kosten
 - Vorgegebener Zeitraum
 
-## Buisness Case
+## Business Case
 - Beschreibt wie und in welchem Zeitraum die Ergebnisse des Projekts dem Unternehmen etwas nutzen
 
 ## Projektmanagement
