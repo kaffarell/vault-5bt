@@ -15,11 +15,9 @@
 
 ## Arten von Firewalls
 * STATEFUL FIREWALL 
-	* Wenn etwas rein geht gehts auch wieder raus
 	* Das ganze paket mit inhalt wird angeschaut
 	* Speicher gute und schlechte verbindungen (damit in der zukunft zurückgeschaut werden kann)
 * STATELESS FIREWALL:
-	* Pakete gehen rein aber gehen nicht wieder raus
 	* Nur statische informationen wie source und destination werden angeschaut
 	* Speichert keine connections und informationen
 	
