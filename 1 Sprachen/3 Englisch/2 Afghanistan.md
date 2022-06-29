@@ -4,7 +4,7 @@
 - **Afghanistan was the setting for a proxy war in the course of the Cold War. Who did the USA support and how?**
 	The USA supported various terror organisations. For example, they supplied handheld rocket launchers to the Mujahideen to help shoot down soviet aircrafts.
 - **After the Soviet-Afghan War, a Civil War ensued. Who fought against whom?**
-	The transitional government composed by a specific mujahiddin group had to fight against other mujahiddin groups and the Taliban, a puritanical Islamic group. The Taliban soon took over the whole country
+	The transitional government composed by a specific Mujahideen group had to fight against other Mujahideen groups and the Taliban, a puritanical Islamic group. The Taliban soon took over the whole country
 - **How did the Taliban originate and when did they seize power?**
 	The Taliban mainly originated from students educated in traditional islamic schools. They first seized power over the country in 1996 after the civil war
 - **Already in 1999, the UN wanted Afghanistan to hand over Osama Bin Laden. Why?**
@@ -19,7 +19,7 @@
 - **How is the terror group Al-Qaida structured?** 
 
 - **Why did the US initially support the Taliban?** 
-	The US initially supported the Taliban because the people who are today part of the taliban were part of the Mujaheddin during the Soviet-Afghan War.
+	The US initially supported the Taliban because the people who are part of the Taliban today were originally part of the Mujahideen during the Soviet-Afghan-War.
 - **Why did the American operation in Afghanistan fail and why did they retreat?**
 	The American operation in Afghanistan failed, because they weren't able to establish a strong enough government and military in Afghanistan. Therefore the Taliban were able to take over Afghanistan as soon as the US left. The US ceased operations in Afghanistan, because the afghans slowly felt annoyed of the US doing what they want. The US also saw that after 20 years they weren't able to change much. Therefore they shifted their m military focus to China and Russia 
 
