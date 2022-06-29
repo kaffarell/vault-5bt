@@ -1,12 +1,15 @@
 ## Normalformen:
 #### Erste Normalform:
 Wenn alle Informationen einer Tabelle Atomar vorliegen
+![[1NF.png]]
 
 #### Zweite Normalform:
-Wenn jedes Nichtschlüsselattribut von jedem Schlüsselkandidaten [voll funktional](https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/abhaengigkeiten-normalisierung/ "Abhängigkeiten") abhängig ist
+Wenn jedes Nichtschlüsselattribut von jedem Schlüsselkandidaten [voll funktional](https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/abhaengigkeiten-normalisierung/ "Abhängigkeiten") abhängig ist. Jedes nicht-primäre Attribut (nicht Teil eines Schlüssels) ist jeweils von allen ganzen Schlüsseln abhängig, nicht nur von einem Teil eines Schlüssels.
+![[2NF.png]]
 
 #### Dritte Normalform:
-Wenn kein Nichtschlüsselattribut [transitiv](https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/abhaengigkeiten-normalisierung/ "Abhängigkeiten") von einem Kandidatenschlüssel abhängt
+Wenn kein Nichtschlüsselattribut [transitiv](https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/abhaengigkeiten-normalisierung/ "Abhängigkeiten") von einem Kandidatenschlüssel abhängt. Die dritte Normalform ist erreicht, wenn sich das Relationenschema in 2NF befindet, und kein Nichtschlüsselattribut (hellgraue Zellen in der Tabelle) von einem anderen Nichtschlüsselattribut funktional abhängig ist.
+![[3NF.png]]
 
 ## Synthesealgorithmus
 #### Theorie
