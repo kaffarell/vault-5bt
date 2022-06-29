@@ -11,7 +11,11 @@
 - Jahrhudertwende (Deutsch [[10 Naturalismus]]) --> [[1 Belle Epoque]] und Ita [[2 Crisi delle certezze]]
 - [[1 Grundlagen|Verschlüsselung]] --> schlüssel --> [[5 Theorie|Datenbanken]]
 - Hörigkeit/sexueller Missbrauch (Deutsch [[10 Naturalismus]]) --> Ita Testimone inconsapevole - signora Cassano ha maltrattato il marito [[Riepilogo#2_1|Link]]
-- Genetic engineering - genetic modified dogs --> Ita testimone processo dogfighting [[Riepilogo#2_7|Link]]
+- [[1 Genetic Engineering|Genetic Engineering]] - genetic modified dogs --> Ita testimone processo dogfighting [[Riepilogo#2_7|Link]]
 - Sinus Mathe --> Wirtschaftszyklen (Ges bil [[Fragen#Konjunktur-Schwankungen Phasen‌|Link]]) --> Wirtschaft (PM)
 - DMZ (SN [[3 DMZ]]) --> DMZ zwischen Korea --> Koreakrieg [[6 Kalter Krieg#Koreakrieg|Link]]
 - [[5 Verlauf zweiter Weltkrieg]]/Nazis --> Z1 (Erster Computer) --> Computer haben sich seit dem weit entwickelt --> Computer heute können alles, von Programmen, zu Webseiten --> HTML, CSS, JS, etc. --> (evtl.) PHP
+- eps modifizieren (Info/TP, usw.) --> [[1 Genetic Engineering|Genetic Engineering]]
+- [[13 Energia nucleare|Energia Nucleare]] --> Vorteile
+- [[6 Kalter Krieg]] --> Wettlauf zum Mond --> conspiracy theories
+- Wettlauf zum Mond --> [[14 Starship super heavy|Starship]] --> [[15 Cronache marziane|cronache marziane]]
