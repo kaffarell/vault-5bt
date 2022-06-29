@@ -4,7 +4,7 @@
 -   Neues Wissen akzeptieren
 -   Aufteilung in Frühaufklärung, Aufklärung, Spätaufklärung
 -   Licht als Symbol der Aufklärung
--   Wichtigster Grundsatz der Aufklärung - Die Vernunft ist im Stande die Wahrheit ans lIcht zu bringen
+-   Wichtigster Grundsatz der Aufklärung - Die Vernunft ist im Stande die Wahrheit ans Licht zu bringen
 
 ## Merkmale
 -   Auf allen Gebieten Denkbewegungen
@@ -30,7 +30,7 @@
 -   Besondere Rolle
 -   Büger spielten Rolle die sie eigentlich sein wollten
 
-### Der Roman in der Auflärung
+### Der Roman in der Aufklärung
 -   Blühte auf --> davor noch nicht so beliebt
 -   Handelt von Bürgerlichen Leben
 

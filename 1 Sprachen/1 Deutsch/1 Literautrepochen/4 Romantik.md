@@ -1,10 +1,9 @@
 # Romantik - 1795-1835
-
 -   Natur, Frieden, Sehnsucht, Träume
 -   Früh - Jena - Schlegelbrüder, Schelling
 -   Hochromantik - förderung der Volkspoesie --> Gebr. Grimm
 -   Spätromantik - erforschung tiefer menschlicher Gefühle, immer konservativer und Richtung Religion
--   Kritik an füheren Epochen
+-   Kritik an früheren Epochen
 -   Rebellieren gegen gesellschafftlich Etabiliertes und gegen Kapitalismus usw.
 -   Franz. Revolution war Wegbereiter, Ständegesellschaft abgelöst
 -   "blaue Blume" --> __Sehnsucht__

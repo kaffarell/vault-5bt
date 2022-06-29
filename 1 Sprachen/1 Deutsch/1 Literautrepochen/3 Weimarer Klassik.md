@@ -1,14 +1,15 @@
 # Klassik - Weimarer Klassik 1786 - 1805
-
 -   Sehr viele Werke, jede Nationalliteratur hat eine Klassik
+-  Von Goethes Italienreise bis zu Schillers Tod
 -   Weimar zentraler Wirkungsort
--   __Immanuel Kant__(Philosoph)  = Sinnbild
+-   __Immanuel Kant__ (Philosoph) = Sinnbild
 -   Deutsche Klassik spät, kurz und beschränkt sich auf die Werke von Goethe und Schiller
 -   Maß, Gesetz und Formstrenge, Ideale
 -   Griechische Antike
 -   Dramen (Ideendrama, Charakterdrama)
 -   Bildungsroman
 -   Lyrik: Ballade, Sonett, Hymne, Ode
+
 ### Wichtige Werke:
 -   Iphigenie
 -   Faust
