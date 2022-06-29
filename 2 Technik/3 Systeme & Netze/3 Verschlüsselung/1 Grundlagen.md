@@ -54,3 +54,11 @@ Zwei Arten von Verschlüsselungen:
 - Client generiert zufällige zahl (premaster secret), verschlüsselt es mit pub key vom Server und schickt es dem Server.
 - Aus dem server secret, client secret und premaster secret wird eine session key generiert (Beide server und client sollte auf der selben session key kommen)
 - Dann wird immer mit AES(symmetrisch) und der session key verschlüsselt kommuniziert. (Jetzt kann auch pub und priv key gelöscht werden, weil es sie nicht mehr braucht, jetzt wird nur noch symmetrisch kommuniziert)
+
+
+## RSA
+siehe: [[3 RSA|RSA bei TP]]
+
+## AES
+- nachfolger von DES
+- verschiedene Schlüssellängen: 128 bit, 192 bit, 256 bit (desto länger desto sicherer)
