@@ -16,6 +16,6 @@
 - DMZ (SN [[3 DMZ]]) --> DMZ zwischen Korea --> Koreakrieg [[6 Kalter Krieg#Koreakrieg|Link]]
 - [[5 Verlauf zweiter Weltkrieg]]/Nazis --> Z1 (Erster Computer) --> Computer haben sich seit dem weit entwickelt --> Computer heute können alles, von Programmen, zu Webseiten --> HTML, CSS, JS, etc. --> (evtl.) PHP (oder a nt)
 - eps modifizieren (Info/TP, usw.) --> [[1 Genetic Engineering|Genetic Engineering]]
-- [[13 Energia nucleare|Energia Nucleare]] --> Vorteile
+- [[13 Energia nucleare|Energia Nucleare]] --> Nachteile - Attacken auf die Atomkraftwerke --> Russische Soldaten nehmen Chernobyl und Zhaporyzia ein --> Ukrainekrieg
 - [[6 Kalter Krieg]] --> Wettlauf zum Mond --> conspiracy theories
 - Wettlauf zum Mond --> [[14 Starship super heavy|Starship]] --> [[15 Cronache marziane#Riassunto - Il verde mattino|cronache marziane - il verde mattino]]
