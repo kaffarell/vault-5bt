@@ -14,4 +14,4 @@
 - Genetic engineering - genetic modified dogs --> Ita testimone processo dogfighting
 - Sinus Mathe --> Wirtschaftszyklen (Ges bil) --> Wirtschaft (PM)
 - DMZ (SN) --> DMZ zwischen Korea --> Koreakrieg
-- WW2/Nazis --> Z1 (Erster Computer) --> Computer haben sich seit dem weit entwickelt --> Computer heute können alles, von Programmen, zu Webseiten --> HTML, CSS, JS, etc. --> (evtl.) PHP
+- WW2/Nazis --> Z1 (Erster Computer) --> Computer haben sich seit dem weit entwickelt --> Computer heute können alles, von Programmen, zu Webseiten --> HTML, CSS, JS, etc. --> (evtl.) PHP (evtl. nt)
