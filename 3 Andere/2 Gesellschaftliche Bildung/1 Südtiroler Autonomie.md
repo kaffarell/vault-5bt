@@ -22,7 +22,7 @@ Strommasten und Gleise wurden gesprengt und es hellten LIchter. Die Verantwortli
 
 Mit Magnago begann eine neue Politik, Österreich war wieder Unabhängig und wollte die Angelegenheit durch die UNO internationalisieren.
 Neunzehnerkommission: traf sich und erarbeitete Lösungen für die Situation Südtirols. Erarbeitete das "Paket".
-1969 war die Mehrheit der SVP für das PAket. Bei den Wahlen war wieder die Mehrheit dafür und wurde von Rom anerkannt. 20. Jänner 1972. Wurde auch von Österreich zugestimmt.
+1969 war die Mehrheit der SVP für das Paket. Bei den Wahlen war wieder die Mehrheit dafür und wurde von Rom anerkannt. 20. Jänner 1972. Wurde auch von Österreich zugestimmt.
 
 #### Was änderte sich durch das 2. Autonomiestatut?
 Nur ein Teil der Punkte des Pakets wurde ins Statut aufgenommen, der Rest kam erst 1992 hinzu. Gesetzgebungsbefugniss in vielen Bereichen. Großteil der Steuern bleibt in Südtirol.

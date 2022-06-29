@@ -2,7 +2,7 @@
 (auch genannt Guaßverteilung oder Glockenkurve)
 ![[normalverteilung.png]]
 
-$f(x, \mu, \sigma^2)=\frac{1}{\sigma\sqrt(2\pi)} * e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}$
+$f(x, \mu, \sigma^2)=\frac{1}{\sigma\sqrt{2\pi}} * e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}$
 
 - Die Normalverteilung wird durch zwei variablen verändert:
 	- Erwartungswert $\mu$. Das ist die Stelle an der die Normalverteilung ihr maximum hat
