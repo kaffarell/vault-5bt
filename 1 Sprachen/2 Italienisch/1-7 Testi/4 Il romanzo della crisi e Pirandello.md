@@ -2,7 +2,7 @@
 - La narrativa del primo novecento
 - La narrativa delle crisi
 - Il positivismo è "finito"
-	- Nell positivismo tutto era defnito, tutto poteva essere spiegato
+	- Nel positivismo tutto era defnito, tutto poteva essere spiegato
 	- Nietzsche, Bergson -> nuove teorie filosofiche
 	- [[2 Crisi delle certezze|Crisi delle certezze]](niente è più sicuro)
 		
