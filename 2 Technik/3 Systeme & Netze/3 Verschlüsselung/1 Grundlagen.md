@@ -7,7 +7,7 @@ Zwei Arten von Verschlüsselungen:
 	- Zum verschlüsseln benützt man den public key (der ist für alle verfügbar)
 	- Zum entschlüsseln benützt man den private key (darf nicht veröffentlicht werden)
 	- Beispiel: RSA
-	
+
 ## Kerckhoffs' Maxim
 "Die Sicherheit eines Kryptosystems darf nicht von der Geheimhaltung des Algorithmus abhängen. Die Sicherheit gründet sich nur auf die Geheimhaltung des Schlüssels."
 
