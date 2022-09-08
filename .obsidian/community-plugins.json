@@ -2,5 +2,9 @@
   "obsidian-git",
   "obsidian-admonition",
   "obsidian-dynamic-toc",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "markdown-table-editor",
+  "obsidian-minimal-settings",
+  "obsidian-nomnoml-diagram",
+  "snippets"
 ]
